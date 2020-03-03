@@ -1,0 +1,2007 @@
+
+
+<!DOCTYPE html>
+<html lang="vi-VN">
+<head><title>
+	Logo Điện Thoại Đẹp | Logo điện thoại bàn, Logo cửa hàng điện thoại
+</title>
+    <!-- #region Các thẻ meta và link -->
+    <meta name="keywords" content="Logo Điện Thoại Đẹp | Logo điện thoại bàn, Logo cửa hàng điện thoại"><meta name="description" content="Trong bài viết này, thiết kế website Tất Thành sẽ chia sẻ cho bạn các mẫu logo điện thoại tuyệt vời và sáng tạo: logo điện thoại bàn, logo điện thoại di động, các mẫu logo cho công ty sửa chữa điện thoại, cửa hàng điện thoại di động và các công ty cung cấp ứng dụng điện thoại di động...."><link rel="canonical" href="https://tatthanh.com.vn/logo-dien-thoai" /><meta property="og:title" content="Logo Điện Thoại Đẹp | Logo điện thoại bàn, Logo cửa hàng điện thoại"><meta property="og:site_name" content="https://tatthanh.com.vn/"><meta property="og:url" content="https://tatthanh.com.vn/logo-dien-thoai"><meta property="og:description" content="Trong bài viết này, thiết kế website Tất Thành sẽ chia sẻ cho bạn các mẫu logo điện thoại tuyệt vời và sáng tạo: logo điện thoại bàn, logo điện thoại di động, các mẫu logo cho công ty sửa chữa điện thoại, cửa hàng điện thoại di động và các công ty cung cấp ứng dụng điện thoại di động...."><meta property="og:type" content="article"><meta property="og:image" content="https://iweb.tatthanh.com.vn/pic/3/blog/logo-dien-thoai.jpg"><meta property="og:image:alt" content="Logo Điện Thoại Đẹp | Logo điện thoại bàn, Logo cửa hàng điện thoại">
+    <!-- #endregion -->
+
+    <!-- #region Các thẻ meta tĩnh -->
+    <meta name="viewport" content="width=device-width, initial-scale=1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta name="robots" content="noodp,index,follow" />
+    <meta name="theme-color" content="#4AA02C" />
+    <!-- #endregion -->
+    
+    <!-- #region Facebook app id chung cho web -->
+    <meta property="fb:app_id" content="463373797870430" />
+    <meta property="fb:admins" content="nguyenvanhoalh"/>
+    <!-- #endregion -->
+
+    <link href="/Themes/Theme01/Assets/Css/__main.min.20200222.11h32.css" rel="stylesheet" /><link href="https://iweb.tatthanh.com.vn/themes/admin/assets/css/font-face.min.css" rel="stylesheet"/>
+
+    <!-- #region Phần css tùy chỉnh-->
+    <style>.main-color-1 { color: #4AA02C; }
+.bg-main-color-1 { background-color: #4AA02C; }
+.bg-main-color-1 .bg-inherit { background-color: #4AA02C; }
+.bg-main-color-1-fade { background-color: rgba(74, 160, 44,0.1) }
+.bd-main-color-1{ border-color:#4AA02C; }
+.main-color-1-active .active,
+.main-color-1-active .slick-current{ color: #4AA02C; }
+
+.main-color-2 { color: #FF7C10; }
+.bg-main-color-2 { background-color: #FF7C10; }
+.bg-main-color-2 .bg-inherit { background-color: #FF7C10; }
+.bg-main-color-2-fade { background-color: rgba(255, 124, 16,0.1) }
+.bd-main-color-2{ border-color:#FF7C10; }
+.slick-slider-btn-main-color-2 .slick-arrow{ background-color: #FF7C10; border-color: #FF7C10; }
+.main-color-2-active .active,
+.main-color-2-active .slick-current{ color: #FF7C10; }
+
+.text-color { color: #333333; }
+.text-color-fade { color: #999999; }
+
+body{ color:#333333; font-size:15px }
+
+a:hover{ color:#FF7C10 }
+a.active{ color:#FF7C10 }
+.active>a{ color:#FF7C10 }
+.active>i.fa{ color:#FF7C10 }
+.tabs-underline .active:after{ background-color:#FF7C10 }
+.tabs-underline .tab:hover:after{ background-color:#FF7C10 }
+
+/*#region Chỉnh màu hover của table */
+.table-hover tbody tr:hover { background-color: rgba(74, 160, 44, 0.1) }
+/*#endregion */
+
+/*#region Chỉnh màu các nút, viết cùng ở file color.scss để tiện thay thế, điều chỉnh */
+.btn-primary { background-color: #FF7C10; }
+.btn-primary-1 { background-color: #4AA02C; }
+
+.btn-primary:hover, .btn-primary:active, .btn-primary.disabled {
+    background-color: rgba(255, 124, 16, 0.9) !important;                
+}
+
+.btn-primary:focus { box-shadow: 0 0 0 0.2rem rgba(255, 124, 16, 0.5) !important; }
+/*#endregion */.font-size { font-size: 15px; }
+.font-size-1 { font-size: 16px; }
+.font-size-2 { font-size: 17px; }
+.font-size-3 { font-size: 18px; }
+.font-size-4 { font-size: 19px; }
+.font-size-5 { font-size: 20px; }
+.font-size--1 { font-size: 14px; }
+.font-size--2 { font-size: 13px; }
+.font-size--3 { font-size: 12px; }
+.font-size--4 { font-size: 11px; }
+.font-size--5 { font-size: 10px; }
+
+/*Font to cho tiêu đều phần giới thiệu danh mục*/
+.font-size-large-x { font-size: 50px; }
+
+/*Font to cho tiêu đều danh mục*/
+.font-size-large { font-size: 30px; }
+.font-size-larger { font-size: 37.5px; }
+
+/*Font trung bình cho tiêu đề bài viết*/
+.font-size-medium--2 { font-size: 16px; }
+.font-size-medium { font-size: 18px; }
+.font-size-medium-2 { font-size: 20px; }
+
+@media (max-width: 767px) {
+    /*Font to cho tiêu đều phần giới thiệu danh mục*/
+    .font-size-large-x { font-size: 30px; }
+
+    /*Font to cho tiêu đều danh mục*/
+    .font-size-large { font-size: 18px; }
+    .font-size-larger { font-size: 22.5px; }
+
+    /*Font trung bình cho tiêu đề bài viết*/
+    .font-size-medium--2 { font-size: 16px; }
+    .font-size-medium { font-size: 17px; }
+    .font-size-medium-2 { font-size: 18px; }
+}
+
+.btn,
+.form-control{ font-size: 15px; }/*Hạn chế chiều rộng trang trên màn fullhd*/
+@media (min-width: 1600px) { .container.container-large { max-width:1230px; } }
+/*End - Hạn chế chiều rộng trang trên màn fullhd*/</style>
+    <!-- #endregion -->
+
+    <!-- #region Các mã có thể nhúng vào thẻ head như Google Analytics, Facebook,... -->
+    <meta name="DC.title" content="Tất Thành: Thiết kế website - Thiết kế nhận diện - Marketing online chuyên nghiệp!" />
+<meta name="geo.region" content="VN-HN" />
+<meta name="geo.placename" content="Hà Nội" />
+<meta name="geo.position" content="21.0082107, 105.8008076" />
+<meta name="ICBM" content="21.0082107, 105.8008076" />
+<meta name="robots" content="index, follow">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="content-language" content="vi" />
+<meta name="revisit-after" content="1 days">
+<meta name="author" content="Công ty Tất Thành">
+<meta name="p:domain_verify" content="043ac62e815db42bc30da1a93f79bb08"/>
+<meta property="fb:app_id" content="357958625074972"/>
+<meta name="google-site-verification" content="on2LctvUiYCws9uJhGh6upMVl7_EVSzM3GYlo1Mz4kQ"/>
+<link rel="alternate" href="https://tatthanh.com.vn/" hreflang="vi-vn" />
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ProfessionalService",
+  "name": "Công ty Tất Thành",
+  "image": "https://tatthanh.com.vn/cms/display/Intro/pic/AdvLogo/logo_2017.png",
+  "@id": "https://tatthanh.com.vn/",
+  "url": "https://tatthanh.com.vn/",
+  "telephone": "098 818 40 22",
+  "priceRange": "6000",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Phòng 3203, Tòa 34T, đường Hoàng Đạo Thúy, Cầu Giấy",
+    "addressLocality": "Hà Nội",
+    "postalCode": "100000",
+    "addressCountry": "VN"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 21.0081741,
+    "longitude": 105.80285300000003
+  },
+  "openingHoursSpecification": {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday"
+    ],
+    "opens": "08:00",
+    "closes": "17:30"
+  },
+  "sameAs": [
+    "https://www.facebook.com/tatthanh.com.vn/",
+    "https://twitter.com/tatthanhvn",
+    "https://www.instagram.com/tatthanhvn/",
+    "https://www.youtube.com/channel/UCSJnQS2GEQAjJPZm4g8Pupw",
+    "https://www.linkedin.com/company/tatthanh/",
+    "https://www.pinterest.com/tatthanhvn",
+    "https://soundcloud.com/tatthanhvn",
+    "https://tatthanhvn.tumblr.com/",
+    "https://github.com/tatthanhvn",
+    "https://tatthanh.business.site"
+  ]
+}
+</script>
+
+
+<!-- Google Tag Manager -->
+<script>
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});
+    var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:"";j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PG8SJFP');
+</script>
+<!-- End Google Tag Manager -->
+    <!-- #endregion -->
+</head>
+<body class="ff-Default pagemaxwidth-xl pagemaxcolumn-5 module-blog">
+<!-- #region Các mã có thể nhúng vào đầu thẻ body như Google Analytics, Facebook,... -->
+<!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PG8SJFP" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+ <!-- End Google Tag Manager (noscript) -->
+<!-- #endregion -->
+
+
+
+<div class="header">
+    
+
+<div class="header-news header-core font-size--1">
+    <div class="menu-main-wrap bg-main-color-1">
+        <div class="container">
+            <div class="row bg-main-color-1">
+                <div class="logo col-auto">
+                    <a  href='/' title='Logo'><img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://iweb.tatthanh.com.vn/pic/3/banner/tatthanh-logo.png" alt="Logo" class="lazyload" /><img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://iweb.tatthanh.com.vn/pic/3/banner/tatthanh-logo.png" alt="Logo" class="lazyload" /></a>
+                </div>
+                <div class="col text-right">
+                    
+<ul class="menu-main bg-inherit">
+    <li class="li-top btn-close-res-menu">
+        <a href="javascript:ToggleResMenu()" rel="nofollow"><i class="fa fa-times"></i>Menu</a>
+    </li>
+    <li class='li-top'>
+        <a href='https://tatthanh.com.vn/' title='Trang chủ'><span>Trang chủ</span></a>
+        
+        
+    </li><li class='li-top has-child'>
+        <a href='http://duphong.tatthanh.com.vn/gioi-thieu.htm' title='Giới thiệu' target='_blank' rel='nofollow'><span>Giới thiệu</span></a>
+        <a href='javascript:ToggleResMenuSub(406)' rel='nofollow' class='btn-open-res-menu-sub'><i class='fa fa-angle-right'></i></a>
+        <ul class='menu-main-sub bg-inherit' data-menu='406'><li class='btn-close-res-menu-sub'><a href='javascript:ToggleResMenuSub(406)' rel='nofollow'><i class='fa fa-times'></i> Giới thiệu</a></li><li>
+        <a href='https://tatthanh.com.vn/video' title='Video hoạt động' rel='nofollow'><span>Video hoạt động</span></a>
+        
+        
+    </li><li>
+        <a href='https://tatthanh.com.vn/thu-vien-anh' title='Hình ảnh hoạt động' rel='nofollow'><span>Hình ảnh hoạt động</span></a>
+        
+        
+    </li><li>
+        <a href='https://tatthanh.com.vn/tin-tuc' title='Tin tức hoạt động' rel='nofollow'><span>Tin tức hoạt động</span></a>
+        
+        
+    </li></ul>
+    </li><li class='li-top'>
+        <a href='https://tatthanh.com.vn/thiet-ke-website' title='Thiết kế website'><span>Thiết kế website</span></a>
+        
+        
+    </li><li class='li-top has-child'>
+        <a href='https://tatthanh.com.vn/dich-vu' title='Dịch vụ web' rel='nofollow'><span>Dịch vụ web</span></a>
+        <a href='javascript:ToggleResMenuSub(673)' rel='nofollow' class='btn-open-res-menu-sub'><i class='fa fa-angle-right'></i></a>
+        <ul class='menu-main-sub bg-inherit' data-menu='673'><li class='btn-close-res-menu-sub'><a href='javascript:ToggleResMenuSub(673)' rel='nofollow'><i class='fa fa-times'></i> Dịch vụ web</a></li><li>
+        <a href='https://tatthanh.com.vn/thiet-ke-thuong-hieu' title='Thiết kế thương hiệu'><span>Thiết kế thương hiệu</span></a>
+        
+        
+    </li><li>
+        <a href='/dich-vu-seo-tong-the' title='Dịch vụ seo tổng thể'><span>Dịch vụ seo tổng thể</span></a>
+        
+        
+    </li><li>
+        <a href='https://tatthanh.com.vn/dich-vu-web' title='Tên miền - Hosting - SSL' rel='nofollow'><span>Tên miền - Hosting - SSL</span></a>
+        
+        
+    </li></ul>
+    </li><li class='li-top has-child'>
+        <a href='https://tatthanh.com.vn/khach-hang' title='Khách hàng' rel='nofollow'><span>Khách hàng</span></a>
+        <a href='javascript:ToggleResMenuSub(404)' rel='nofollow' class='btn-open-res-menu-sub'><i class='fa fa-angle-right'></i></a>
+        <ul class='menu-main-sub bg-inherit' data-menu='404'><li class='btn-close-res-menu-sub'><a href='javascript:ToggleResMenuSub(404)' rel='nofollow'><i class='fa fa-times'></i> Khách hàng</a></li><li>
+        <a href='https://tatthanh.com.vn/y-kien-khach-hang' title='Ý kiến khách hàng' rel='nofollow'><span>Ý kiến khách hàng</span></a>
+        
+        
+    </li><li>
+        <a href='https://tatthanh.com.vn/du-an-cau-chuyen-thanh-cong' title='Câu chuyện thành công' rel='nofollow'><span>Câu chuyện thành công</span></a>
+        
+        
+    </li></ul>
+    </li><li class='li-top'>
+        <a href='https://tatthanh.com.vn/blog' title='Blog' rel='nofollow'><span>Blog</span></a>
+        
+        
+    </li><li class='li-top'>
+        <a href='https://tatthanh.com.vn/tai-lieu' title='Tài liệu' rel='nofollow'><span>Tài liệu</span></a>
+        
+        
+    </li><li class='li-top'>
+        <a href='https://tatthanh.com.vn/lien-he' title='Liên hệ' rel='nofollow'><span>Liên hệ</span></a>
+        
+        
+    </li>
+</ul>
+<a href="javascript:ToggleResMenu()" title="Menu" rel="nofollow" class="btn-open-res-menu"><span></span><span></span><span></span></a>    
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="header-core-space"></div>
+</div>
+
+
+<div class="breadcrumb-wrap font-size--1">
+    <div class="container container-large position-relative">
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a href="/" title="Trang chủ"><i class="fa fa-home"></i></a></li>
+            <li class='breadcrumb-item'><a href='https://tatthanh.com.vn/blog' title='Blog'>Blog</a></li><li class='breadcrumb-item'><a href='https://tatthanh.com.vn/kien-thuc-thiet-ke' title='Kiến thức thiết kế'>Kiến thức thiết kế</a></li><li class='breadcrumb-item'><a href='https://tatthanh.com.vn/blog-thiet-ke-logo' title='Thiết kế logo'>Thiết kế logo</a></li>
+        </ol>
+        
+<div class="contact-us-btns ">
+    <a href="#dien-thoai-ho-tro" title="Gọi điện" class="btn bg-main-color-2"><i class="fa fa-phone main-color-2"></i> <span>Gọi điện</span></a>
+    <a href="#gui-yeu-cau" title="Gửi yêu cầu" class="btn bg-main-color-2"><i class="fa fa-envelope main-color-2"></i> <span>Gửi yêu cầu</span></a>
+    <a href="#dien-thoai-ho-tro" title="Chat Zalo" class="btn bg-main-color-2"><i class="fa fa-zalo main-color-2"></i> <span>Chat Zalo</span></a>
+    <a href="#dien-thoai-ho-tro" title="Chat Facebook" class="btn bg-main-color-2"><i class="fa fa-facebook main-color-2"></i> <span>Chat Facebook</span></a>
+</div>
+    </div>
+</div>
+<div class="container container-large">
+    <div class="row">
+        <div class="left-col col-xl-12d5-x4">
+            
+
+
+<div class="container container-large">
+    <div class="a-detail">
+        <h1 class="a-detail-title font-size-large main-color-1">Logo Điện Thoại Đẹp | Logo điện thoại bàn, Logo cửa hàng điện thoại</h1> 
+        <p class="a-detail-desc ">Trong bài viết này, thiết kế website Tất Thành sẽ chia sẻ cho bạn các mẫu logo điện thoại tuyệt vời và sáng tạo: logo điện thoại bàn, logo điện thoại di động, các mẫu logo cho công ty sửa chữa điện thoại, cửa hàng điện thoại di động và các công ty cung cấp ứng dụng điện thoại di động....</p>
+        <div class='itemsubinfo a-detail-infos font-size--3 text-color-fade'>
+                                <a href='https://tatthanh.com.vn/tac-gia/1019' title='Trang ĐH' class='item-author-img'>
+                                    <span class='imgc'>
+                                        <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://iweb.tatthanh.com.vn/pic/noimage/no-image-thumb.png" alt="Đinh Huyền Trang" class="lazyload" />
+                                    </span>                                    
+                                </a>
+                                <div class='ml-2'>
+                                    <a href='https://tatthanh.com.vn/tac-gia/1019' title='Trang ĐH' class='item-author-title font-size'>Trang ĐH</a><br />
+                                    <span class='item-date'>16:02 06/03/19</span>
+                                    <span>trong</span> <a href='https://tatthanh.com.vn/blog-thiet-ke-logo' title='Thiết kế logo' class='item-subtitle main-color-1'>Thiết kế logo</a>
+                                </div>
+                            </div><div class='item-date-view font-size--3 text-color-fade'>
+                                <span class='item-date mr-3'><i class='fa fa-calendar'></i> 16:02 06/03/19</span>
+                                <span class='item-view'><i class='fa fa-eye'></i> 4.234 lượt xem</span>
+                        </div>
+        
+<div class="item-links-top font-size--3 text-color-fade">
+    <span class="item-link"><i class="fa fa-eye"></i> 4,234 lượt xem</span>
+                                
+    <!-- AddThis Button BEGIN -->
+    
+    <!-- AddThis Button END -->
+                                
+    <div class="text-btns">
+        <span class="reset-font">Font chữ</span>                                    
+        <a href="javascript:SelectFont1()" class="font-size-3 select-font-1 active">aA</a>
+        <a href="javascript:SelectFont2()" class="font-size-3 select-font-2">aA</a>
+        <a href="javascript:DecreaseTextSize()" class="smaller-text">-</a>
+        <a href="javascript:IncreaseTextSize()" class="larger-text">+</a>
+    </div>
+
+</div>
+        
+        
+        
+        
+        
+
+        <div class="a-detail-content text-size ">
+            <div style="text-align:justify">Ng&agrave;y nay, ch&uacute;ng ta c&oacute; thể t&igrave;m thấy h&agrave;ng ng&agrave;n logo kh&aacute;c nhau tr&ecirc;n c&aacute;c website. Nhưng, kh&ocirc;ng phải logo n&agrave;o cũng g&acirc;y được ấn tượng với người d&ugrave;ng. D&ugrave; bạn đang cần <strong>những m&acirc;̃u&nbsp;logo điện thoại </strong>cho b&agrave;i viết, h&igrave;nh ảnh hấp dẫn hơn, hay bạn đ&atilde; sở hữu cửa h&agrave;ng, c&ocirc;ng ty kinh doanh li&ecirc;n quan đến điện thoại, c&oacute; một logo điện thoại ph&ugrave; hợp rất c&oacute; lợi trong việc g&acirc;y được ch&uacute; &yacute; với kh&aacute;ch h&agrave;ng tiềm năng.<br />
+&nbsp;
+<div style="text-align:center"><img alt="Logo Điện Thoại Đẹp | Logo điện thoại bàn, Logo cửa hàng điện thoại" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://iweb.tatthanh.com.vn/pic/3/blog/images/logo-dien-thoai.jpg" /></div>
+<br />
+Để thiết kế logo điện thoại ph&ugrave; hợp l&agrave; điều kh&ocirc;ng đơn giản, đặc biệt l&agrave; khi bạn kh&ocirc;ng hiểu r&otilde; về c&aacute;ch triển khai, thiết kế theo c&aacute;ch c&oacute; lợi cho doanh nghiệp của bạn. Tin tốt l&agrave;, bạn c&oacute; thể sử dụng c&aacute;c dịch vụ <a href="https://tatthanh.com.vn/thiet-ke-logo" target="_blank"><span style="color:#0000ff"><u><strong>thiết kế logo</strong></u></span></a> của chuy&ecirc;n gia - những người c&oacute; thể gi&uacute;p bạn tạo ra logo tốt nhất hoặc c&aacute;c logo điện thoại miễn ph&iacute; tr&ecirc;n mạng.&nbsp;<br />
+<br />
+Trong b&agrave;i viết n&agrave;y, Tất Th&agrave;nh sẽ chia sẻ cho bạn c&aacute;c mẫu logo điện thoại tuyệt vời v&agrave; s&aacute;ng tạo: logo điện thoại b&agrave;n, logo điện thoại di động, c&aacute;c mẫu logo cho c&ocirc;ng ty sửa chữa điện thoại, cửa h&agrave;ng điện thoại di động v&agrave; c&aacute;c c&ocirc;ng ty cung cấp ứng dụng điện thoại di động....</div>
+
+<h2 style="text-align:justify"><span style="color:#b22222"><strong>Logo điện thoại</strong></span></h2>
+
+<div style="text-align:justify">Logo điện thoại b&agrave;n v&agrave; logo điện thoại di động tuyệt đẹp dưới đ&acirc;y gi&uacute;p bạn thỏa sức s&aacute;ng tạo với nội dung b&agrave;i viết tr&ecirc;n website, blog, mạng x&atilde; hội.&nbsp;</div>
+
+<h3 style="text-align:justify"><span style="color:#000080"><strong>Logo điện thoại b&agrave;n</strong></span></h3>
+
+<table align="center" border="1" cellpadding="20" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="text-align:center">
+			<figure class="image"><img alt="Logo Điện Thoại Đẹp | Logo điện thoại bàn, Logo cửa hàng điện thoại 1" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://iweb.tatthanh.com.vn/pic/3/blog/images/logo-dien-thoai(1).jpg" />
+			<figcaption>Logo điện thoại b&agrave;n ấn tượng</figcaption>
+			</figure>
+			</td>
+			<td style="text-align:center">
+			<figure class="image"><img alt="Logo Điện Thoại Đẹp | Logo điện thoại bàn, Logo cửa hàng điện thoại 2" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://iweb.tatthanh.com.vn/pic/3/blog/images/logo-dien-thoai(2).jpg" />
+			<figcaption>Logo điện thoại xanh l&aacute; c&acirc;y</figcaption>
+			</figure>
+			</td>
+		</tr>
+		<tr>
+			<td style="text-align:center">
+			<figure class="image"><img alt="Logo Điện Thoại Đẹp | Logo điện thoại bàn, Logo cửa hàng điện thoại 3" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://iweb.tatthanh.com.vn/pic/3/blog/images/logo-dien-thoai(3).jpg" />
+			<figcaption>Logo điện thoại xanh dương</figcaption>
+			</figure>
+			</td>
+			<td style="text-align:center">
+			<figure class="image"><img alt="Logo Điện Thoại Đẹp | Logo điện thoại bàn, Logo cửa hàng điện thoại 4" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://iweb.tatthanh.com.vn/pic/3/blog/images/logo-dien-thoai(4).jpg" />
+			<figcaption>Logo điện thoại đơn giản</figcaption>
+			</figure>
+			</td>
+		</tr>
+		<tr>
+			<td style="text-align:center">
+			<figure class="image"><img alt="Logo Điện Thoại Đẹp | Logo điện thoại bàn, Logo cửa hàng điện thoại 5" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://iweb.tatthanh.com.vn/pic/3/blog/images/logo-dien-thoai(5).jpg" />
+			<figcaption>Logo điện thoại cho b&agrave;i viết dịch vụ</figcaption>
+			</figure>
+			</td>
+			<td style="text-align:center">
+			<figure class="image"><img alt="Logo Điện Thoại Đẹp | Logo điện thoại bàn, Logo cửa hàng điện thoại 6" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://iweb.tatthanh.com.vn/pic/3/blog/images/logo-dien-thoai(6).jpg" />
+			<figcaption>Logo điện thoại đơn giản</figcaption>
+			</figure>
+			</td>
+		</tr>
+		<tr>
+			<td style="text-align:center">
+			<figure class="image"><img alt="Logo Điện Thoại Đẹp | Logo điện thoại bàn, Logo cửa hàng điện thoại 7" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://iweb.tatthanh.com.vn/pic/3/blog/images/logo-dien-thoai(7).jpg" />
+			<figcaption>Logo điện thoại b&agrave;n trắng đen</figcaption>
+			</figure>
+			</td>
+			<td style="text-align:center">
+			<figure class="image"><img alt="Logo Điện Thoại Đẹp | Logo điện thoại bàn, Logo cửa hàng điện thoại 8" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://iweb.tatthanh.com.vn/pic/3/blog/images/logo-dien-thoai(8).jpg" />
+			<figcaption>Logo điện thoại v&agrave;ng</figcaption>
+			</figure>
+			</td>
+		</tr>
+		<tr>
+			<td style="text-align:center">
+			<figure class="image"><img alt="Logo Điện Thoại Đẹp | Logo điện thoại bàn, Logo cửa hàng điện thoại 9" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://iweb.tatthanh.com.vn/pic/3/blog/images/logo-dien-thoai(9).jpg" />
+			<figcaption>Logo điện thoại đẹp</figcaption>
+			</figure>
+			</td>
+			<td style="text-align:center">
+			<figure class="image"><img alt="Logo Điện Thoại Đẹp | Logo điện thoại bàn, Logo cửa hàng điện thoại 10" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://iweb.tatthanh.com.vn/pic/3/blog/images/logo-dien-thoai(10).jpg" />
+			<figcaption>Logo điện thoại thanh lịch</figcaption>
+			</figure>
+			</td>
+		</tr>
+		<tr>
+			<td style="text-align:center">
+			<figure class="image"><img alt="Logo Điện Thoại Đẹp | Logo điện thoại bàn, Logo cửa hàng điện thoại 11" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://iweb.tatthanh.com.vn/pic/3/blog/images/logo-dien-thoai(11).jpg" />
+			<figcaption>Logo điện thoại đẹp</figcaption>
+			</figure>
+			</td>
+			<td style="text-align:center">
+			<figure class="image"><img alt="Logo Điện Thoại Đẹp | Logo điện thoại bàn, Logo cửa hàng điện thoại 12" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://iweb.tatthanh.com.vn/pic/3/blog/images/logo-dien-thoai(12).jpg" />
+			<figcaption>Logo điện thoại b&agrave;n dễ thương</figcaption>
+			</figure>
+			</td>
+		</tr>
+		<tr>
+			<td style="text-align:center">
+			<figure class="image"><img alt="Logo Điện Thoại Đẹp | Logo điện thoại bàn, Logo cửa hàng điện thoại 13" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://iweb.tatthanh.com.vn/pic/3/blog/images/logo-dien-thoai(13).jpg" />
+			<figcaption>Logo điện thoại b&agrave;n ấn tượng</figcaption>
+			</figure>
+			</td>
+			<td style="text-align:center">
+			<figure class="image"><img alt="Logo Điện Thoại Đẹp | Logo điện thoại bàn, Logo cửa hàng điện thoại 14" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://iweb.tatthanh.com.vn/pic/3/blog/images/logo-dien-thoai(14).jpg" />
+			<figcaption>Logo điện thoại b&agrave;n chuy&ecirc;n nghiệp</figcaption>
+			</figure>
+			</td>
+		</tr>
+		<tr>
+			<td style="text-align:center">
+			<figure class="image"><img alt="Logo Điện Thoại Đẹp | Logo điện thoại bàn, Logo cửa hàng điện thoại 15" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://iweb.tatthanh.com.vn/pic/3/blog/images/logo-dien-thoai(15).jpg" />
+			<figcaption>Logo điện thoại chuy&ecirc;n nghiệp</figcaption>
+			</figure>
+			</td>
+			<td style="text-align:center">
+			<figure class="image"><img alt="Logo Điện Thoại Đẹp | Logo điện thoại bàn, Logo cửa hàng điện thoại 16" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://iweb.tatthanh.com.vn/pic/3/blog/images/logo-dien-thoai(16).jpg" />
+			<figcaption>Logo điện thoại b&agrave;n s&aacute;ng tạo</figcaption>
+			</figure>
+			</td>
+		</tr>
+		<tr>
+			<td style="text-align:center">
+			<figure class="image"><img alt="Logo Điện Thoại Đẹp | Logo điện thoại bàn, Logo cửa hàng điện thoại 17" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://iweb.tatthanh.com.vn/pic/3/blog/images/logo-dien-thoai(17).jpg" />
+			<figcaption>Logo điện thoại b&agrave;n đẹp</figcaption>
+			</figure>
+			</td>
+			<td style="text-align:center">
+			<figure class="image"><img alt="Logo Điện Thoại Đẹp | Logo điện thoại bàn, Logo cửa hàng điện thoại 18" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://iweb.tatthanh.com.vn/pic/3/blog/images/logo-dien-thoai(18).jpg" />
+			<figcaption>Logo điện thoại ấn tượng</figcaption>
+			</figure>
+			</td>
+		</tr>
+		<tr>
+			<td style="text-align:center">
+			<figure class="image"><img alt="Logo Điện Thoại Đẹp | Logo điện thoại bàn, Logo cửa hàng điện thoại 19" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://iweb.tatthanh.com.vn/pic/3/blog/images/logo-dien-thoai(19).jpg" />
+			<figcaption>Logo điện thoại đơn giản</figcaption>
+			</figure>
+			</td>
+			<td style="text-align:center">
+			<figure class="image"><img alt="Logo Điện Thoại Đẹp | Logo điện thoại bàn, Logo cửa hàng điện thoại 20" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://iweb.tatthanh.com.vn/pic/3/blog/images/logo-dien-thoai(20).jpg" />
+			<figcaption>Logo điện thoại b&agrave;n đơn giản</figcaption>
+			</figure>
+			</td>
+		</tr>
+		<tr>
+			<td style="text-align:center">
+			<figure class="image"><img alt="Logo Điện Thoại Đẹp | Logo điện thoại bàn, Logo cửa hàng điện thoại 21" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://iweb.tatthanh.com.vn/pic/3/blog/images/logo-dien-thoai(21).jpg" />
+			<figcaption>Logo điện thoại s&aacute;ng tạo</figcaption>
+			</figure>
+			</td>
+			<td style="text-align:center">
+			<figure class="image"><img alt="Logo Điện Thoại Đẹp | Logo điện thoại bàn, Logo cửa hàng điện thoại 22" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://iweb.tatthanh.com.vn/pic/3/blog/images/logo-dien-thoai(22).jpg" />
+			<figcaption>Logo điện thoại b&agrave;n s&aacute;ng tạo</figcaption>
+			</figure>
+			</td>
+		</tr>
+		<tr>
+			<td style="text-align:center">
+			<figure class="image"><img alt="Logo Điện Thoại Đẹp | Logo điện thoại bàn, Logo cửa hàng điện thoại 23" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://iweb.tatthanh.com.vn/pic/3/blog/images/logo-dien-thoai(23).jpg" />
+			<figcaption>Logo điện thoại sang trọng</figcaption>
+			</figure>
+			</td>
+			<td>&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
+<br />
+<br />
+<iframe frameborder="0" height="450" scrolling="yes" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://tatthanh.com.vn/iframe/contactform" width="100%"></iframe><br />
+&nbsp;
+<h3 style="text-align:justify"><span style="color:#000080"><strong>Logo điện thoại di động</strong></span></h3>
+
+<table align="center" border="1" cellpadding="15" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="text-align:center">
+			<figure class="image"><img alt="Logo Điện Thoại Đẹp | Logo điện thoại bàn, Logo cửa hàng điện thoại 24" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://iweb.tatthanh.com.vn/pic/3/blog/images/logo-dien-thoai(24).jpg" />
+			<figcaption>Logo điện thoại đẹp 1</figcaption>
+			</figure>
+			</td>
+			<td style="text-align:center">
+			<figure class="image"><img alt="Logo Điện Thoại Đẹp | Logo điện thoại bàn, Logo cửa hàng điện thoại 25" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://iweb.tatthanh.com.vn/pic/3/blog/images/logo-dien-thoai(25).jpg" />
+			<figcaption>Logo điện thoại đẹp 2</figcaption>
+			</figure>
+			</td>
+		</tr>
+		<tr>
+			<td style="text-align:center">
+			<figure class="image"><img alt="Logo Điện Thoại Đẹp | Logo điện thoại bàn, Logo cửa hàng điện thoại 26" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://iweb.tatthanh.com.vn/pic/3/blog/images/logo-dien-thoai(26).jpg" />
+			<figcaption>Logo điện thoại đẹp 3</figcaption>
+			</figure>
+			</td>
+			<td style="text-align:center">
+			<figure class="image"><img alt="Logo Điện Thoại Đẹp | Logo điện thoại bàn, Logo cửa hàng điện thoại 27" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://iweb.tatthanh.com.vn/pic/3/blog/images/logo-dien-thoai.jpeg" />
+			<figcaption>Logo điện thoại đẹp 4</figcaption>
+			</figure>
+			</td>
+		</tr>
+		<tr>
+			<td style="text-align:center">
+			<figure class="image"><img alt="Logo Điện Thoại Đẹp | Logo điện thoại bàn, Logo cửa hàng điện thoại 28" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://iweb.tatthanh.com.vn/pic/3/blog/images/logo-dien-thoai(27).jpg" />
+			<figcaption>Logo điện thoại đẹp 5</figcaption>
+			</figure>
+			</td>
+			<td style="text-align:center">
+			<figure class="image"><img alt="Logo Điện Thoại Đẹp | Logo điện thoại bàn, Logo cửa hàng điện thoại 29" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://iweb.tatthanh.com.vn/pic/3/blog/images/logo-dien-thoai(28).jpg" />
+			<figcaption>Logo điện thoại đẹp 6</figcaption>
+			</figure>
+			</td>
+		</tr>
+		<tr>
+			<td style="text-align:center">
+			<figure class="image"><img alt="Logo Điện Thoại Đẹp | Logo điện thoại bàn, Logo cửa hàng điện thoại 30" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://iweb.tatthanh.com.vn/pic/3/blog/images/logo-dien-thoai(29).jpg" />
+			<figcaption>Logo điện thoại đẹp 7</figcaption>
+			</figure>
+			</td>
+			<td style="text-align:center">
+			<figure class="image"><img alt="Logo Điện Thoại Đẹp | Logo điện thoại bàn, Logo cửa hàng điện thoại 31" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://iweb.tatthanh.com.vn/pic/3/blog/images/logo-dien-thoai(30).jpg" />
+			<figcaption>Logo điện thoại đẹp 8</figcaption>
+			</figure>
+			</td>
+		</tr>
+	</tbody>
+</table>
+&nbsp;
+
+<h3 style="text-align:justify"><span style="color:#000080"><strong>Logo cửa h&agrave;ng, ứng dụng điện thoại</strong></span></h3>
+
+<table align="center" border="1" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="text-align:center">
+			<figure class="image"><img alt="Logo Điện Thoại Đẹp | Logo điện thoại bàn, Logo cửa hàng điện thoại 32" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://iweb.tatthanh.com.vn/pic/3/blog/images/logo-dien-thoai(31).jpg" />
+			<figcaption>Logo của h&agrave;ng sửa chữa điện thoại</figcaption>
+			</figure>
+			</td>
+			<td style="text-align:center">
+			<figure class="image"><img alt="Logo Điện Thoại Đẹp | Logo điện thoại bàn, Logo cửa hàng điện thoại 33" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://iweb.tatthanh.com.vn/pic/3/blog/images/logo-dien-thoai(32).jpg" />
+			<figcaption>Logo cửa h&agrave;ng điện thoại</figcaption>
+			</figure>
+			</td>
+		</tr>
+		<tr>
+			<td style="text-align:center">
+			<figure class="image"><img alt="Logo Điện Thoại Đẹp | Logo điện thoại bàn, Logo cửa hàng điện thoại 34" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://iweb.tatthanh.com.vn/pic/3/blog/images/logo-dien-thoai(33).jpg" />
+			<figcaption>Logo trung t&acirc;m bảo h&agrave;nh điện thoại</figcaption>
+			</figure>
+			</td>
+			<td style="text-align:center">
+			<figure class="image"><img alt="Logo Điện Thoại Đẹp | Logo điện thoại bàn, Logo cửa hàng điện thoại 35" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://iweb.tatthanh.com.vn/pic/3/blog/images/logo-dien-thoai(34).jpg" />
+			<figcaption>Logo cửa h&agrave;ng sửa chữa điện thoại</figcaption>
+			</figure>
+			</td>
+		</tr>
+		<tr>
+			<td style="text-align:center">
+			<figure class="image"><img alt="Logo Điện Thoại Đẹp | Logo điện thoại bàn, Logo cửa hàng điện thoại 36" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://iweb.tatthanh.com.vn/pic/3/blog/images/logo-dien-thoai(35).jpg" />
+			<figcaption>Logo cửa h&agrave;ng chữa điện thoại</figcaption>
+			</figure>
+			</td>
+			<td style="text-align:center">
+			<figure class="image"><img alt="Logo Điện Thoại Đẹp | Logo điện thoại bàn, Logo cửa hàng điện thoại 37" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://iweb.tatthanh.com.vn/pic/3/blog/images/logo-dien-thoai(36).jpg" />
+			<figcaption>Logo cửa h&agrave;ng b&aacute;n điện thoại</figcaption>
+			</figure>
+			</td>
+		</tr>
+		<tr>
+			<td style="text-align:center">
+			<figure class="image"><img alt="Logo Điện Thoại Đẹp | Logo điện thoại bàn, Logo cửa hàng điện thoại 38" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://iweb.tatthanh.com.vn/pic/3/blog/images/logo-dien-thoai(37).jpg" />
+			<figcaption>Logo c&ocirc;ng ty điện thoại</figcaption>
+			</figure>
+			</td>
+			<td style="text-align:center">
+			<figure class="image"><img alt="Logo Điện Thoại Đẹp | Logo điện thoại bàn, Logo cửa hàng điện thoại 39" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://iweb.tatthanh.com.vn/pic/3/blog/images/logo-dien-thoai(38).jpg" />
+			<figcaption>Logo cửa h&agrave;ng sửa điện thoại</figcaption>
+			</figure>
+			</td>
+		</tr>
+		<tr>
+			<td style="text-align:center">
+			<figure class="image"><img alt="Logo Điện Thoại Đẹp | Logo điện thoại bàn, Logo cửa hàng điện thoại 40" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://iweb.tatthanh.com.vn/pic/3/blog/images/logo-dien-thoai(39).jpg" />
+			<figcaption>Logo tiện &iacute;ch điện thoại di động</figcaption>
+			</figure>
+			</td>
+			<td style="text-align:center">
+			<figure class="image"><img alt="Logo Điện Thoại Đẹp | Logo điện thoại bàn, Logo cửa hàng điện thoại 41" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://iweb.tatthanh.com.vn/pic/3/blog/images/logo-dien-thoai(40).jpg" />
+			<figcaption>Logo cửa h&agrave;ng chữa điện thoại 1</figcaption>
+			</figure>
+			</td>
+		</tr>
+		<tr>
+			<td style="text-align:center">
+			<figure class="image"><img alt="Logo Điện Thoại Đẹp | Logo điện thoại bàn, Logo cửa hàng điện thoại 42" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://iweb.tatthanh.com.vn/pic/3/blog/images/logo-dien-thoai(41).jpg" />
+			<figcaption>Logo cửa h&agrave;ng chữa điện thoại 2</figcaption>
+			</figure>
+			</td>
+			<td style="text-align:center">
+			<figure class="image"><img alt="Logo Điện Thoại Đẹp | Logo điện thoại bàn, Logo cửa hàng điện thoại 43" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://iweb.tatthanh.com.vn/pic/3/blog/images/logo-dien-thoai(42).jpg" />
+			<figcaption>Logo cửa h&agrave;ng chữa điện thoại 3</figcaption>
+			</figure>
+			</td>
+		</tr>
+		<tr>
+			<td style="text-align:center">
+			<figure class="image"><img alt="Logo Điện Thoại Đẹp | Logo điện thoại bàn, Logo cửa hàng điện thoại 44" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://iweb.tatthanh.com.vn/pic/3/blog/images/logo-dien-thoai(43).jpg" />
+			<figcaption>Logo cửa h&agrave;ng di động thể hiển c&aacute;c mẫu di động mới nhất tr&ecirc;n s&agrave;n catwalk</figcaption>
+			</figure>
+			</td>
+			<td style="text-align:center">
+			<figure class="image"><img alt="Logo Điện Thoại Đẹp | Logo điện thoại bàn, Logo cửa hàng điện thoại 45" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://iweb.tatthanh.com.vn/pic/3/blog/images/logo-dien-thoai(44).jpg" />
+			<figcaption>Logo của iPhone Monster cho cửa h&agrave;ng điện thoại di động v&agrave; website</figcaption>
+			</figure>
+			</td>
+		</tr>
+		<tr>
+			<td style="text-align:center">
+			<figure class="image"><img alt="Logo Điện Thoại Đẹp | Logo điện thoại bàn, Logo cửa hàng điện thoại 46" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://iweb.tatthanh.com.vn/pic/3/blog/images/logo-dien-thoai(45).jpg" />
+			<figcaption>Logo của nh&agrave; cung cấp ứng dụng di động</figcaption>
+			</figure>
+			</td>
+			<td style="text-align:center">
+			<figure class="image"><img alt="Logo Điện Thoại Đẹp | Logo điện thoại bàn, Logo cửa hàng điện thoại 47" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://iweb.tatthanh.com.vn/pic/3/blog/images/logo-dien-thoai(46).jpg" />
+			<figcaption>Logo của nh&oacute;m ph&aacute;t triển di động</figcaption>
+			</figure>
+			</td>
+		</tr>
+		<tr>
+			<td style="text-align:center">
+			<figure class="image"><img alt="Logo Điện Thoại Đẹp | Logo điện thoại bàn, Logo cửa hàng điện thoại 48" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://iweb.tatthanh.com.vn/pic/3/blog/images/logo-dien-thoai(47).jpg" />
+			<figcaption>Logo ứng dụng điện thoại di động</figcaption>
+			</figure>
+			</td>
+			<td style="text-align:center">
+			<figure class="image"><img alt="Logo Điện Thoại Đẹp | Logo điện thoại bàn, Logo cửa hàng điện thoại 49" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://iweb.tatthanh.com.vn/pic/3/blog/images/logo-dien-thoai(48).jpg" />
+			<figcaption>Logo c&ocirc;ng ty sửa chữa điện thoại iPhone</figcaption>
+			</figure>
+			</td>
+		</tr>
+		<tr>
+			<td style="text-align:center">
+			<figure class="image"><img alt="Logo Điện Thoại Đẹp | Logo điện thoại bàn, Logo cửa hàng điện thoại 50" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://iweb.tatthanh.com.vn/pic/3/blog/images/logo-dien-thoai(49).jpg" />
+			<figcaption>Logo của một c&ocirc;ng ty ph&aacute;t triển ứng dụng di động nhỏ</figcaption>
+			</figure>
+			</td>
+			<td style="text-align:center">
+			<figure class="image"><img alt="Logo Điện Thoại Đẹp | Logo điện thoại bàn, Logo cửa hàng điện thoại 51" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://iweb.tatthanh.com.vn/pic/3/blog/images/logo-dien-thoai(50).jpg" />
+			<figcaption>Logo của nh&agrave; ph&aacute;t triển ứng dụng di động</figcaption>
+			</figure>
+			</td>
+		</tr>
+		<tr>
+			<td style="text-align:center">
+			<figure class="image"><img alt="Logo Điện Thoại Đẹp | Logo điện thoại bàn, Logo cửa hàng điện thoại 52" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://iweb.tatthanh.com.vn/pic/3/blog/images/logo-dien-thoai(51).jpg" />
+			<figcaption>Logo của Mobilelif</figcaption>
+			</figure>
+			</td>
+			<td style="text-align:center">
+			<figure class="image"><img alt="Logo Điện Thoại Đẹp | Logo điện thoại bàn, Logo cửa hàng điện thoại 53" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://iweb.tatthanh.com.vn/pic/3/blog/images/logo-dien-thoai(52).jpg" />
+			<figcaption>Logo của nh&agrave; ph&aacute;t triển ứng dụng v&agrave; giao diện người d&ugrave;ng cho điện thoại di động</figcaption>
+			</figure>
+			</td>
+		</tr>
+		<tr>
+			<td style="text-align:center">
+			<figure class="image"><img alt="Logo Điện Thoại Đẹp | Logo điện thoại bàn, Logo cửa hàng điện thoại 54" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://iweb.tatthanh.com.vn/pic/3/blog/images/logo-dien-thoai(53).jpg" />
+			<figcaption>Logo của mobilegg với h&igrave;nh ảnh chiếc điện thoại trong quả trứng.</figcaption>
+			</figure>
+			</td>
+			<td style="text-align:center">
+			<figure class="image"><img alt="Logo Điện Thoại Đẹp | Logo điện thoại bàn, Logo cửa hàng điện thoại 55" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://iweb.tatthanh.com.vn/pic/3/blog/images/logo-dien-thoai(54).jpg" />
+			<figcaption>Logo cửa h&agrave;ng b&aacute;n phụ kiện di động</figcaption>
+			</figure>
+			</td>
+		</tr>
+	</tbody>
+</table>
+&nbsp;
+
+<div style="text-align:justify">Logo lấy cảm hứng từ h&igrave;nh ảnh điện thoại của c&aacute;c cửa h&agrave;ng sửa chữa điện thoại, cửa h&agrave;ng b&aacute;n điện thoại, c&aacute;c ứng dụng v&agrave; nh&agrave; ph&aacute;t triển ứng dụng d&agrave;nh cho điện thoại.<br />
+<br />
+Tr&ecirc;n đ&acirc;y l&agrave; <strong>những mẫu thiết kế logo đẹp</strong> m&agrave; Tất Th&agrave;nh muốn chia sẻ đến c&aacute;c bạn. Hy vọng những mẫu logo điện thoại n&agrave;y sẽ gi&uacute;p &iacute;ch cho c&aacute;c b&agrave;i viết nội dung tr&ecirc;n website hoặc mang đến cảm hứng tạo n&ecirc;n logo ri&ecirc;ng biệt của ch&iacute;nh bạn. Nếu bạn vẫn c&ograve;n đang băn khoăn về logo điện thoại của m&igrave;nh, h&atilde;y để <a href="https://tatthanh.com.vn/cong-ty-thiet-ke-website-tai-ha-noi" target="_blank"><span style="color:#0000ff"><strong><u>c&ocirc;ng ty thi&ecirc;́t k&ecirc;́ website</u></strong></span></a>&nbsp;Tất Th&agrave;nh gi&uacute;p bạn thực hiện việc đ&oacute;!&nbsp;</div>
+
+        </div>
+
+        <div class="item-tags font-size--2 d-none">
+            <i class="fa fa-tags"></i>
+            
+        </div>
+        
+<div class="item-links-bottom font-size--3 text-color-fade">
+    <!-- AddThis Button BEGIN -->
+    <div class="addthis_toolbox addthis_default_style addthis_16x16_style">                                    
+        <div class="fb-share-button" data-href="" data-layout="button_count" data-size="small" data-mobile-iframe="true"></div>
+        <div class="fb-like" data-href="" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div>
+               
+        
+    </div>
+    <!-- AddThis Button END -->
+                                
+    <div class="text-btns">
+        <a href="javascript:void(0);" class="email addthis_button_email"><i class="fa fa-envelope"></i> Gửi email</a>
+        <a href="javascript:window.print()" class="print"><i class="fa fa-print"></i> In<span class="d-none d-md-inline"> trang</span></a>
+    </div>
+</div>
+        
+        
+        
+<div class="fb-comments" data-href="https://tatthanh.com.vn/logo-dien-thoai" data-width="100%" data-numposts="5"></div>
+        
+<div class="related-articles">
+    <div class='category' data-tabs='_alignleft_' data-blocklayouts='_itemborder__itemboxshadow__itemborderradius__itempadding__itemdarkbg__itemlightbg__itemdate__itemview__13_' data-app='blog' data-categoryid='2594' data-app-category='blog'><div class='category-header '>
+            <span class='_bgbottom_'></span>
+            <span class='_bgtop_'></span>
+            <span class='_bgbottommaincolor1_ bg-main-color-1'></span>
+            <span class='_bgtopmaincolor1_ bg-main-color-1'></span>
+            <span class='_bgbottommaincolor2_ bg-main-color-2'></span>
+            <span class='_bgtopmaincolor2_ bg-main-color-2'></span>
+
+            <div class='category-title-wrap bd-main-color-1 '>                
+                <h2><a href='https://tatthanh.com.vn/blog-thiet-ke-logo' title='Thiết kế logo' class='category-title font-size-medium-2 main-color-1'>Thiết kế logo</a></h2>
+                <span class='_bgleftbottom_ bg-main-color-1'></span>
+                <span class='_bglefttop_ bg-main-color-1'></span>
+                <span class='_arrowleft_'></span>
+                <span class='_arrowright_'></span>
+                <span class='_angleleft_'></span>
+                <span class='_angleright_'></span>
+                <span class='_angleleftup_'></span>
+                <span class='_anglerightup_'></span>
+                <span class='_borderleft_'></span>
+                <span class='_borderright_'></span>
+                <span class='_curveleft_'></span>
+                <span class='_curveright_'></span>
+                <span class='_tailflagleft_'></span>
+                <span class='_tailflagright_'></span>
+                <span class='_lineleft_'></span>
+                <span class='_lineright_'></span>
+            </div>
+            <div class='category-btns bd-main-color-2 '>
+                <div class='category-btns-core'>
+                    <a href='https://tatthanh.com.vn/blog-thiet-ke-logo' title='Xem tất cả' class='d-none d-md-inline-block category-btn category-btn-view-all '>Xem tất cả <i class='fa fa-angle-double-right'></i></a><a href='https://tatthanh.com.vn/blog-thiet-ke-logo' title='Xem tất cả' class='category-btn category-btn-view-all d-inline-block d-md-none '><i class='fa fa-angle-double-right'></i></a>
+                </div><a href='javascript:void(0);' onclick='ToggleCategoryBtns(this)' title='Xem thêm' class='category-btn-bars'><i class='fa fa-bars'></i></a>
+                <span class='_bgrightbottom_ bg-main-color-1'></span>
+                <span class='_bgrighttop_ bg-main-color-1'></span>
+            </div>
+        </div><div class='category-body'><div class='slick-slider-wrap'><div class='slick-slider slick-arrow-center-img' data-slick='{"slidesToShow": 4, "slidesToScroll": 1, "autoplay": false, "dots": false, "arrows":true, "responsive": [{"breakpoint": 1200,"settings": {"slidesToShow": 3}}, {"breakpoint": 992,"settings": {"slidesToShow": 2}}, {"breakpoint": 768,"settings": {"slidesToShow": 1}}]}'><div class='col-md-6 col-lg-4 col-xl-3'>
+                <div class='item' data-app='blog'>
+                    <div class='item-img'>
+                                <a href='https://tatthanh.com.vn/thiet-ke-logo-theo-phong-thuy' title='Thiết kế logo theo phong thủy - Gợi ý tạo logo theo tuổi, hợp mệnh' class='imgc'>
+                                    <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://iweb.tatthanh.com.vn/pic/3/thumb/medium/blog/thiet-ke-logo-theo-phong-thuy.JPG" alt="Thiết kế logo theo phong thủy - Gợi ý tạo logo theo tuổi, hợp mệnh" class="lazyload" />
+                                </a>
+                            </div>
+                    <div class='item-body'>
+                        <a href='https://tatthanh.com.vn/thiet-ke-logo-theo-phong-thuy' title='Thiết kế logo theo phong thủy - Gợi ý tạo logo theo tuổi, hợp mệnh' class='item-title font-size-medium--2 main-color-1 fwb'>Thiết kế logo theo phong thủy - Gợi ý tạo logo theo tuổi, hợp mệnh</a>
+                        <p class='item-desc'>Thiết kế logo theo phong thủy cần chú ý tới màu sắc, bố cục, hình dáng không những đảm bảo thẩm myc ủa thiết kề mà theo quan niệm còn mang đến may mắn, tài lộc </p>
+                        <div class='itemsubinfo item-infos font-size--3 text-color-fade'>
+                                <a href='https://tatthanh.com.vn/tac-gia/1019' title='Trang ĐH' class='item-author-img'>
+                                    <span class='imgc'>
+                                        <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://iweb.tatthanh.com.vn/pic/noimage/no-image-thumb.png" alt="Đinh Huyền Trang" class="lazyload" />
+                                    </span>                                    
+                                </a>
+                                <div class='ml-2'>
+                                    <a href='https://tatthanh.com.vn/tac-gia/1019' title='Trang ĐH' class='item-author-title font-size'>Trang ĐH</a><br />
+                                    <span class='item-date'>15:54 13/11/19</span>
+                                    <span>trong</span> <a href='https://tatthanh.com.vn/blog-thiet-ke-logo' title='Thiết kế logo' class='item-subtitle main-color-1'>Thiết kế logo</a>
+                                </div>
+                            </div><div class='item-date-view font-size--3 text-color-fade'>
+                                <span class='item-date mr-3'><i class='fa fa-calendar'></i> 15:54 13/11/19</span>
+                                <span class='item-view'><i class='fa fa-eye'></i> 3.936 lượt xem</span>
+                        </div>
+                        <div class='item-links font-size--3 text-color-fade'>			
+					        <span class='item-link'><i class='fa fa-eye'></i> 3.936 lượt xem</span>
+					        <span class='item-link'><i class='fa fa-comment'></i> bình luận</span>
+				        </div>
+                    </div>
+                </div>
+            </div><div class='col-md-6 col-lg-4 col-xl-3'>
+                <div class='item' data-app='blog'>
+                    <div class='item-img'>
+                                <a href='https://tatthanh.com.vn/y-nghia-mau-sac-trong-thiet-ke-logo' title='Ý nghĩa màu sắc trong thiết kế logo' class='imgc'>
+                                    <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://iweb.tatthanh.com.vn/pic/3/thumb/medium/blog/y-nghia-mau-sac-trong-thiet-ke-logo.JPG" alt="Ý nghĩa màu sắc trong thiết kế logo" class="lazyload" />
+                                </a>
+                            </div>
+                    <div class='item-body'>
+                        <a href='https://tatthanh.com.vn/y-nghia-mau-sac-trong-thiet-ke-logo' title='Ý nghĩa màu sắc trong thiết kế logo' class='item-title font-size-medium--2 main-color-1 fwb'>Ý nghĩa màu sắc trong thiết kế logo</a>
+                        <p class='item-desc'>Hiểu được ý nghĩa màu sắc trong thiết kế logo khổng chỉ giúp bạn tìm được màu sắc hợp phong thủy, bản mệnh, mà màu sắc của logo còn tác động mạnh đến tâm lý khách hàng</p>
+                        <div class='itemsubinfo item-infos font-size--3 text-color-fade'>
+                                <a href='https://tatthanh.com.vn/tac-gia/1019' title='Trang ĐH' class='item-author-img'>
+                                    <span class='imgc'>
+                                        <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://iweb.tatthanh.com.vn/pic/noimage/no-image-thumb.png" alt="Đinh Huyền Trang" class="lazyload" />
+                                    </span>                                    
+                                </a>
+                                <div class='ml-2'>
+                                    <a href='https://tatthanh.com.vn/tac-gia/1019' title='Trang ĐH' class='item-author-title font-size'>Trang ĐH</a><br />
+                                    <span class='item-date'>15:51 13/11/19</span>
+                                    <span>trong</span> <a href='https://tatthanh.com.vn/blog-thiet-ke-logo' title='Thiết kế logo' class='item-subtitle main-color-1'>Thiết kế logo</a>
+                                </div>
+                            </div><div class='item-date-view font-size--3 text-color-fade'>
+                                <span class='item-date mr-3'><i class='fa fa-calendar'></i> 15:51 13/11/19</span>
+                                <span class='item-view'><i class='fa fa-eye'></i> 2.409 lượt xem</span>
+                        </div>
+                        <div class='item-links font-size--3 text-color-fade'>			
+					        <span class='item-link'><i class='fa fa-eye'></i> 2.409 lượt xem</span>
+					        <span class='item-link'><i class='fa fa-comment'></i> bình luận</span>
+				        </div>
+                    </div>
+                </div>
+            </div><div class='col-md-6 col-lg-4 col-xl-3'>
+                <div class='item' data-app='blog'>
+                    <div class='item-img'>
+                                <a href='https://tatthanh.com.vn/ti-le-vang-trong-thiet-ke-logo' title='Tỉ lệ vàng trong thiết kế logo' class='imgc'>
+                                    <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://iweb.tatthanh.com.vn/pic/3/thumb/medium/blog/ti-le-vang-trong-thiet-ke-logo.jpeg" alt="Tỉ lệ vàng trong thiết kế logo" class="lazyload" />
+                                </a>
+                            </div>
+                    <div class='item-body'>
+                        <a href='https://tatthanh.com.vn/ti-le-vang-trong-thiet-ke-logo' title='Tỉ lệ vàng trong thiết kế logo' class='item-title font-size-medium--2 main-color-1 fwb'>Tỉ lệ vàng trong thiết kế logo</a>
+                        <p class='item-desc'>Tỉ lệ vàng trong thiết kế logo là gì? Kỹ thuật thiết kế logo theo tỷ lệ vàng được thực hiện như thế nào? Dưới đây là các thông tin chi tiết, hướng dẫn sử dụng tỷ lệ vàng trong thiết kế logo</p>
+                        <div class='itemsubinfo item-infos font-size--3 text-color-fade'>
+                                <a href='https://tatthanh.com.vn/tac-gia/1019' title='Trang ĐH' class='item-author-img'>
+                                    <span class='imgc'>
+                                        <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://iweb.tatthanh.com.vn/pic/noimage/no-image-thumb.png" alt="Đinh Huyền Trang" class="lazyload" />
+                                    </span>                                    
+                                </a>
+                                <div class='ml-2'>
+                                    <a href='https://tatthanh.com.vn/tac-gia/1019' title='Trang ĐH' class='item-author-title font-size'>Trang ĐH</a><br />
+                                    <span class='item-date'>15:50 13/11/19</span>
+                                    <span>trong</span> <a href='https://tatthanh.com.vn/blog-thiet-ke-logo' title='Thiết kế logo' class='item-subtitle main-color-1'>Thiết kế logo</a>
+                                </div>
+                            </div><div class='item-date-view font-size--3 text-color-fade'>
+                                <span class='item-date mr-3'><i class='fa fa-calendar'></i> 15:50 13/11/19</span>
+                                <span class='item-view'><i class='fa fa-eye'></i> 3.665 lượt xem</span>
+                        </div>
+                        <div class='item-links font-size--3 text-color-fade'>			
+					        <span class='item-link'><i class='fa fa-eye'></i> 3.665 lượt xem</span>
+					        <span class='item-link'><i class='fa fa-comment'></i> bình luận</span>
+				        </div>
+                    </div>
+                </div>
+            </div><div class='col-md-6 col-lg-4 col-xl-3'>
+                <div class='item' data-app='blog'>
+                    <div class='item-img'>
+                                <a href='https://tatthanh.com.vn/logo-ngon-lua' title='Logo ngọn lửa Đẹp | Biểu tượng ngọn lửa Đẹp' class='imgc'>
+                                    <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://iweb.tatthanh.com.vn/pic/3/thumb/medium/blog/logo-ngon-lua.jpg" alt="Logo ngọn lửa Đẹp | Biểu tượng ngọn lửa Đẹp" class="lazyload" />
+                                </a>
+                            </div>
+                    <div class='item-body'>
+                        <a href='https://tatthanh.com.vn/logo-ngon-lua' title='Logo ngọn lửa Đẹp | Biểu tượng ngọn lửa Đẹp' class='item-title font-size-medium--2 main-color-1 fwb'>Logo ngọn lửa Đẹp | Biểu tượng ngọn lửa Đẹp</a>
+                        <p class='item-desc'>Logo ngọn lửa chính là biểu tượng ngọn lửa mang ý nghĩa lớn về năng lượng, sức mạnh, truyền cảm hứng. Dưới đây là những mẫu logo ngọn lửa đẹp nhất mà bạn cần tham khảo</p>
+                        <div class='itemsubinfo item-infos font-size--3 text-color-fade'>
+                                <a href='https://tatthanh.com.vn/tac-gia/1019' title='Trang ĐH' class='item-author-img'>
+                                    <span class='imgc'>
+                                        <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://iweb.tatthanh.com.vn/pic/noimage/no-image-thumb.png" alt="Đinh Huyền Trang" class="lazyload" />
+                                    </span>                                    
+                                </a>
+                                <div class='ml-2'>
+                                    <a href='https://tatthanh.com.vn/tac-gia/1019' title='Trang ĐH' class='item-author-title font-size'>Trang ĐH</a><br />
+                                    <span class='item-date'>15:49 13/11/19</span>
+                                    <span>trong</span> <a href='https://tatthanh.com.vn/blog-thiet-ke-logo' title='Thiết kế logo' class='item-subtitle main-color-1'>Thiết kế logo</a>
+                                </div>
+                            </div><div class='item-date-view font-size--3 text-color-fade'>
+                                <span class='item-date mr-3'><i class='fa fa-calendar'></i> 15:49 13/11/19</span>
+                                <span class='item-view'><i class='fa fa-eye'></i> 4.288 lượt xem</span>
+                        </div>
+                        <div class='item-links font-size--3 text-color-fade'>			
+					        <span class='item-link'><i class='fa fa-eye'></i> 4.288 lượt xem</span>
+					        <span class='item-link'><i class='fa fa-comment'></i> bình luận</span>
+				        </div>
+                    </div>
+                </div>
+            </div><div class='col-md-6 col-lg-4 col-xl-3'>
+                <div class='item' data-app='blog'>
+                    <div class='item-img'>
+                                <a href='https://tatthanh.com.vn/logo-nha-khoa' title='Logo nha khoa ấn tượng - Tạo logo nha khoa của riêng bạn' class='imgc'>
+                                    <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://iweb.tatthanh.com.vn/pic/3/thumb/medium/blog/logo-nha-khoa.jpg" alt="Logo nha khoa ấn tượng - Tạo logo nha khoa của riêng bạn" class="lazyload" />
+                                </a>
+                            </div>
+                    <div class='item-body'>
+                        <a href='https://tatthanh.com.vn/logo-nha-khoa' title='Logo nha khoa ấn tượng - Tạo logo nha khoa của riêng bạn' class='item-title font-size-medium--2 main-color-1 fwb'>Logo nha khoa ấn tượng - Tạo logo nha khoa của riêng bạn</a>
+                        <p class='item-desc'>Logo nha khoa ấn tượng, bạn là một nha sĩ, một người chuyên về thẩm mỹ và các vấn đề liên quan đến răng hàm mặt và muốn tạo logo nha khoa của riêng bạn. Tham khảo các mẫu sau</p>
+                        <div class='itemsubinfo item-infos font-size--3 text-color-fade'>
+                                <a href='https://tatthanh.com.vn/tac-gia/1019' title='Trang ĐH' class='item-author-img'>
+                                    <span class='imgc'>
+                                        <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://iweb.tatthanh.com.vn/pic/noimage/no-image-thumb.png" alt="Đinh Huyền Trang" class="lazyload" />
+                                    </span>                                    
+                                </a>
+                                <div class='ml-2'>
+                                    <a href='https://tatthanh.com.vn/tac-gia/1019' title='Trang ĐH' class='item-author-title font-size'>Trang ĐH</a><br />
+                                    <span class='item-date'>15:40 13/11/19</span>
+                                    <span>trong</span> <a href='https://tatthanh.com.vn/blog-thiet-ke-logo' title='Thiết kế logo' class='item-subtitle main-color-1'>Thiết kế logo</a>
+                                </div>
+                            </div><div class='item-date-view font-size--3 text-color-fade'>
+                                <span class='item-date mr-3'><i class='fa fa-calendar'></i> 15:40 13/11/19</span>
+                                <span class='item-view'><i class='fa fa-eye'></i> 2.377 lượt xem</span>
+                        </div>
+                        <div class='item-links font-size--3 text-color-fade'>			
+					        <span class='item-link'><i class='fa fa-eye'></i> 2.377 lượt xem</span>
+					        <span class='item-link'><i class='fa fa-comment'></i> bình luận</span>
+				        </div>
+                    </div>
+                </div>
+            </div><div class='col-md-6 col-lg-4 col-xl-3'>
+                <div class='item' data-app='blog'>
+                    <div class='item-img'>
+                                <a href='https://tatthanh.com.vn/logo-2-chu-cai' title='Logo 2 chữ cái - Những ý tưởng thiết kế sáng tạo nhất' class='imgc'>
+                                    <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://iweb.tatthanh.com.vn/pic/3/thumb/medium/blog/logo-2-chu-cai.jpg" alt="Logo 2 chữ cái - Những ý tưởng thiết kế sáng tạo nhất" class="lazyload" />
+                                </a>
+                            </div>
+                    <div class='item-body'>
+                        <a href='https://tatthanh.com.vn/logo-2-chu-cai' title='Logo 2 chữ cái - Những ý tưởng thiết kế sáng tạo nhất' class='item-title font-size-medium--2 main-color-1 fwb'>Logo 2 chữ cái - Những ý tưởng thiết kế sáng tạo nhất</a>
+                        <p class='item-desc'>Bạn muốn thiết kế logo 2 chữ cái sao cho vừa đơn giản, nhưng đẹp mắt và sáng tạo? Dưới đây là kho mẫu logo 2 chữ cái độc đáo để bạn có thể tham khảo và có ý tưởng thiết kế tốt nhất</p>
+                        <div class='itemsubinfo item-infos font-size--3 text-color-fade'>
+                                <a href='https://tatthanh.com.vn/tac-gia/1019' title='Trang ĐH' class='item-author-img'>
+                                    <span class='imgc'>
+                                        <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://iweb.tatthanh.com.vn/pic/noimage/no-image-thumb.png" alt="Đinh Huyền Trang" class="lazyload" />
+                                    </span>                                    
+                                </a>
+                                <div class='ml-2'>
+                                    <a href='https://tatthanh.com.vn/tac-gia/1019' title='Trang ĐH' class='item-author-title font-size'>Trang ĐH</a><br />
+                                    <span class='item-date'>15:34 13/11/19</span>
+                                    <span>trong</span> <a href='https://tatthanh.com.vn/blog-thiet-ke-logo' title='Thiết kế logo' class='item-subtitle main-color-1'>Thiết kế logo</a>
+                                </div>
+                            </div><div class='item-date-view font-size--3 text-color-fade'>
+                                <span class='item-date mr-3'><i class='fa fa-calendar'></i> 15:34 13/11/19</span>
+                                <span class='item-view'><i class='fa fa-eye'></i> 3.166 lượt xem</span>
+                        </div>
+                        <div class='item-links font-size--3 text-color-fade'>			
+					        <span class='item-link'><i class='fa fa-eye'></i> 3.166 lượt xem</span>
+					        <span class='item-link'><i class='fa fa-comment'></i> bình luận</span>
+				        </div>
+                    </div>
+                </div>
+            </div><div class='col-md-6 col-lg-4 col-xl-3'>
+                <div class='item' data-app='blog'>
+                    <div class='item-img'>
+                                <a href='https://tatthanh.com.vn/logo-kim-cuong' title='+99 Mẫu logo kim cương đẹp' class='imgc'>
+                                    <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://iweb.tatthanh.com.vn/pic/3/thumb/medium/blog/logo-kim-cuong.png" alt="+99 Mẫu logo kim cương đẹp" class="lazyload" />
+                                </a>
+                            </div>
+                    <div class='item-body'>
+                        <a href='https://tatthanh.com.vn/logo-kim-cuong' title='+99 Mẫu logo kim cương đẹp' class='item-title font-size-medium--2 main-color-1 fwb'>+99 Mẫu logo kim cương đẹp</a>
+                        <p class='item-desc'>Logo kim cương là biểu tượng của sự quyền lực, sang trọng, mạnh mẽ. Bạn có đang đi tìm những mẫu logo hình kim cương? Dưới đây là +99 mẫu logo kim cương đẹp cho bạn tham khảo</p>
+                        <div class='itemsubinfo item-infos font-size--3 text-color-fade'>
+                                <a href='https://tatthanh.com.vn/tac-gia/1019' title='Trang ĐH' class='item-author-img'>
+                                    <span class='imgc'>
+                                        <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://iweb.tatthanh.com.vn/pic/noimage/no-image-thumb.png" alt="Đinh Huyền Trang" class="lazyload" />
+                                    </span>                                    
+                                </a>
+                                <div class='ml-2'>
+                                    <a href='https://tatthanh.com.vn/tac-gia/1019' title='Trang ĐH' class='item-author-title font-size'>Trang ĐH</a><br />
+                                    <span class='item-date'>15:32 13/11/19</span>
+                                    <span>trong</span> <a href='https://tatthanh.com.vn/blog-thiet-ke-logo' title='Thiết kế logo' class='item-subtitle main-color-1'>Thiết kế logo</a>
+                                </div>
+                            </div><div class='item-date-view font-size--3 text-color-fade'>
+                                <span class='item-date mr-3'><i class='fa fa-calendar'></i> 15:32 13/11/19</span>
+                                <span class='item-view'><i class='fa fa-eye'></i> 3.848 lượt xem</span>
+                        </div>
+                        <div class='item-links font-size--3 text-color-fade'>			
+					        <span class='item-link'><i class='fa fa-eye'></i> 3.848 lượt xem</span>
+					        <span class='item-link'><i class='fa fa-comment'></i> bình luận</span>
+				        </div>
+                    </div>
+                </div>
+            </div><div class='col-md-6 col-lg-4 col-xl-3'>
+                <div class='item' data-app='blog'>
+                    <div class='item-img'>
+                                <a href='https://tatthanh.com.vn/cac-buoc-de-co-mau-thiet-ke-logo-dep' title='Các bước để có mẫu thiết kế Logo đẹp' class='imgc'>
+                                    <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://iweb.tatthanh.com.vn/pic/3/thumb/medium/blog/cac-buoc-de-co-mau-thiet-ke-logo-dep.jpg" alt="Các bước để có mẫu thiết kế Logo đẹp" class="lazyload" />
+                                </a>
+                            </div>
+                    <div class='item-body'>
+                        <a href='https://tatthanh.com.vn/cac-buoc-de-co-mau-thiet-ke-logo-dep' title='Các bước để có mẫu thiết kế Logo đẹp' class='item-title font-size-medium--2 main-color-1 fwb'>Các bước để có mẫu thiết kế Logo đẹp</a>
+                        <p class='item-desc'>Bạn đã thực sự hiểu rõ tầm quan trọng của mẫu thiết kế logo đối vớicông việc kinh doanh của công ty hay chưa? Logo xuất hiện ở khắp nơi, từ letterhead cho tới website của bạn, rơi vào tầm ngắm của khách hàng, nhà cung cấp và báo chí. </p>
+                        <div class='itemsubinfo item-infos font-size--3 text-color-fade'>
+                                <a href='https://tatthanh.com.vn/tac-gia/1019' title='Trang ĐH' class='item-author-img'>
+                                    <span class='imgc'>
+                                        <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://iweb.tatthanh.com.vn/pic/noimage/no-image-thumb.png" alt="Đinh Huyền Trang" class="lazyload" />
+                                    </span>                                    
+                                </a>
+                                <div class='ml-2'>
+                                    <a href='https://tatthanh.com.vn/tac-gia/1019' title='Trang ĐH' class='item-author-title font-size'>Trang ĐH</a><br />
+                                    <span class='item-date'>15:31 13/11/19</span>
+                                    <span>trong</span> <a href='https://tatthanh.com.vn/blog-thiet-ke-logo' title='Thiết kế logo' class='item-subtitle main-color-1'>Thiết kế logo</a>
+                                </div>
+                            </div><div class='item-date-view font-size--3 text-color-fade'>
+                                <span class='item-date mr-3'><i class='fa fa-calendar'></i> 15:31 13/11/19</span>
+                                <span class='item-view'><i class='fa fa-eye'></i> 3.097 lượt xem</span>
+                        </div>
+                        <div class='item-links font-size--3 text-color-fade'>			
+					        <span class='item-link'><i class='fa fa-eye'></i> 3.097 lượt xem</span>
+					        <span class='item-link'><i class='fa fa-comment'></i> bình luận</span>
+				        </div>
+                    </div>
+                </div>
+            </div></div></div></div></div>
+</div>
+    </div>
+</div>
+        </div>
+        <div class="right-col col-xl-12d5">
+            <div class='img-qcps'></div>
+
+<div class="list ul-menu category" data-tabs="_alignleft__bgmaincolor2__borderradius__padding__hidebtnviewall__hidebtns__bgleft__arrowright_">
+    <div class='category-header  bg-main-color-2'>
+            <span class='_bgbottom_'></span>
+            <span class='_bgtop_'></span>
+            <span class='_bgbottommaincolor1_ bg-main-color-1'></span>
+            <span class='_bgtopmaincolor1_ bg-main-color-1'></span>
+            <span class='_bgbottommaincolor2_ bg-main-color-2'></span>
+            <span class='_bgtopmaincolor2_ bg-main-color-2'></span>
+
+            <div class='category-title-wrap bd-main-color-1 bg-main-color-1'>                
+                <div  title='Danh mục' class='category-title font-size-medium-2 main-color-1'>Danh mục</div>
+                <span class='_bgleftbottom_ bg-main-color-1'></span>
+                <span class='_bglefttop_ bg-main-color-1'></span>
+                <span class='_arrowleft_'></span>
+                <span class='_arrowright_'></span>
+                <span class='_angleleft_'></span>
+                <span class='_angleright_'></span>
+                <span class='_angleleftup_'></span>
+                <span class='_anglerightup_'></span>
+                <span class='_borderleft_'></span>
+                <span class='_borderright_'></span>
+                <span class='_curveleft_'></span>
+                <span class='_curveright_'></span>
+                <span class='_tailflagleft_'></span>
+                <span class='_tailflagright_'></span>
+                <span class='_lineleft_'></span>
+                <span class='_lineright_'></span>
+            </div>
+            <div class='category-btns bd-main-color-2 '>
+                <div class='category-btns-core'>
+                    
+                </div><a href='javascript:void(0);' onclick='ToggleCategoryBtns(this)' title='Xem thêm' class='category-btn-bars'><i class='fa fa-bars'></i></a>
+                <span class='_bgrightbottom_ bg-main-color-1'></span>
+                <span class='_bgrighttop_ bg-main-color-1'></span>
+            </div>
+        </div>
+	<div class="list-body">		
+		<ul>
+		    <li class=' has-child'><a href='https://tatthanh.com.vn/kien-thuc-website' title='Kiến thức website'>Kiến thức website</a><ul><li><a href='https://tatthanh.com.vn/font-chu-website' title='Font chữ website'>Font chữ website</a></li><li><a href='https://tatthanh.com.vn/blog-thiet-ke-website' title='Thiết kế website'>Thiết kế website</a></li><li><a href='https://tatthanh.com.vn/thuat-ngu-website' title='Thuật ngữ website'>Thuật ngữ website</a></li><li><a href='https://tatthanh.com.vn/ten-mien-hosting-email' title='Tên miền - Hosting - Email'>Tên miền - Hosting - Email</a></li></ul></li><li class=' has-child'><a href='https://tatthanh.com.vn/doanh-nghiep-4-0' title='Doanh nghiệp 4.0'>Doanh nghiệp 4.0</a><ul><li><a href='https://tatthanh.com.vn/kinh-doanh-truc-tuyen' title='Kinh doanh trực tuyến'>Kinh doanh trực tuyến</a></li><li><a href='https://tatthanh.com.vn/thuong-hieu' title='Thương hiệu'>Thương hiệu</a></li><li><a href='https://tatthanh.com.vn/khoi-nghiep' title='Khởi Nghiệp'>Khởi Nghiệp</a></li></ul></li><li class=' active has-child'><a href='https://tatthanh.com.vn/kien-thuc-thiet-ke' title='Kiến thức thiết kế'>Kiến thức thiết kế</a><ul><li class='active'><a href='https://tatthanh.com.vn/blog-thiet-ke-logo' title='Thiết kế logo'>Thiết kế logo</a></li><li><a href='https://tatthanh.com.vn/blog-thiet-ke-profile' title='Thiết kế profile'>Thiết kế profile</a></li><li><a href='https://tatthanh.com.vn/blog-thiet-ke-catalogue' title='Thiết kế catalogue'>Thiết kế catalogue</a></li><li><a href='https://tatthanh.com.vn/blog-thiet-ke-do-hoa' title='Thiết kế đồ họa'>Thiết kế đồ họa</a></li></ul></li><li class=' has-child'><a href='https://tatthanh.com.vn/marketing-marketing-online' title='Marketing - Marketing online'>Marketing - Marketing online</a><ul><li><a href='https://tatthanh.com.vn/kien-thuc-seo' title='Kiến thức SEO'>Kiến thức SEO</a></li><li><a href='https://tatthanh.com.vn/kien-thuc-google-ads' title='Kiến thức Google Ads'>Kiến thức Google Ads</a></li></ul></li><li class=' has-child'><a href='https://tatthanh.com.vn/doanh-nghiep-thanh-cong' title='Doanh nghiệp thành công'>Doanh nghiệp thành công</a><ul><li><a href='https://tatthanh.com.vn/lam-viec' title='Làm việc'>Làm việc</a></li><li><a href='https://tatthanh.com.vn/lanh-dao' title='Lãnh đạo'>Lãnh đạo</a></li><li><a href='https://tatthanh.com.vn/nhan-vien-gioi' title='Nhân viên giỏi'>Nhân viên giỏi</a></li><li><a href='https://tatthanh.com.vn/quan-ly' title='Quản lý'>Quản lý</a></li></ul></li><li class=' has-child'><a href='https://tatthanh.com.vn/phat-trien-con-nguoi' title='Phát triển con người'>Phát triển con người</a><ul><li><a href='https://tatthanh.com.vn/nho-giao-phat-giao' title='Nho giáo - Phật giáo'>Nho giáo - Phật giáo</a></li><li><a href='https://tatthanh.com.vn/doc-sach-cung-ban' title='Đọc sách cùng bạn'>Đọc sách cùng bạn</a></li><li><a href='https://tatthanh.com.vn/goc-nhin-cuoc-song' title='Góc nhìn cuộc sống'>Góc nhìn cuộc sống</a></li><li><a href='https://tatthanh.com.vn/tan-man' title='Tản mạn'>Tản mạn</a></li></ul></li><li class=''><a href='https://tatthanh.com.vn/tin-tuc-cong-nghe' title='Tin tức công nghệ'>Tin tức công nghệ</a></li><li class=''><a href='https://tatthanh.com.vn/trai-nghiem-apple' title='Trải nghiệm Apple ❤️ '>Trải nghiệm Apple ❤️ </a></li><li class=''><a href='https://tatthanh.com.vn/huong-dan-su-dung-iweb' title='Hướng dẫn sử dụng iWeb'>Hướng dẫn sử dụng iWeb</a></li>			
+		</ul>
+	</div>
+</div>
+
+<div class='category' data-tabs='_alignleft__bgmaincolor2__borderradius__padding__hidebtnviewall__hidebtns__bgleft__arrowright_' data-blocklayouts='_boxshadow__border__borderradius__padding__lightbg__itemborderradius__itemdate__2_' data-app='news' data-categoryid='2631' data-app-category='newsgroup'><div class='category-header  bg-main-color-2'>
+            <span class='_bgbottom_'></span>
+            <span class='_bgtop_'></span>
+            <span class='_bgbottommaincolor1_ bg-main-color-1'></span>
+            <span class='_bgtopmaincolor1_ bg-main-color-1'></span>
+            <span class='_bgbottommaincolor2_ bg-main-color-2'></span>
+            <span class='_bgtopmaincolor2_ bg-main-color-2'></span>
+
+            <div class='category-title-wrap bd-main-color-1 bg-main-color-1'>                
+                <a href='https://tatthanh.com.vn/tin-tuc-noi-bat' title='Tin tức nổi bật' class='category-title font-size-medium-2 main-color-1'>Tin tức nổi bật</a>
+                <span class='_bgleftbottom_ bg-main-color-1'></span>
+                <span class='_bglefttop_ bg-main-color-1'></span>
+                <span class='_arrowleft_'></span>
+                <span class='_arrowright_'></span>
+                <span class='_angleleft_'></span>
+                <span class='_angleright_'></span>
+                <span class='_angleleftup_'></span>
+                <span class='_anglerightup_'></span>
+                <span class='_borderleft_'></span>
+                <span class='_borderright_'></span>
+                <span class='_curveleft_'></span>
+                <span class='_curveright_'></span>
+                <span class='_tailflagleft_'></span>
+                <span class='_tailflagright_'></span>
+                <span class='_lineleft_'></span>
+                <span class='_lineright_'></span>
+            </div>
+            <div class='category-btns bd-main-color-2 '>
+                <div class='category-btns-core'>
+                    <a href='https://tatthanh.com.vn/tin-tuc-noi-bat' title='Xem tất cả' class='d-none d-md-inline-block category-btn category-btn-view-all '>Xem tất cả <i class='fa fa-angle-double-right'></i></a><a href='https://tatthanh.com.vn/tin-tuc-noi-bat' title='Xem tất cả' class='category-btn category-btn-view-all d-inline-block d-md-none '><i class='fa fa-angle-double-right'></i></a>
+                </div><a href='javascript:void(0);' onclick='ToggleCategoryBtns(this)' title='Xem thêm' class='category-btn-bars'><i class='fa fa-bars'></i></a>
+                <span class='_bgrightbottom_ bg-main-color-1'></span>
+                <span class='_bgrighttop_ bg-main-color-1'></span>
+            </div>
+        </div><div class='category-body'><div class='auto-loading-items-wrap reloading-items-wrap' data-categoryid='2631'><div class='item item-row no-gutters' data-app='news'>
+                <div class='item-img'>
+                                <a href='https://tatthanh.com.vn/tat-thanh-gan-ket-va-giu-chan-nhan-tai' title='Tất Thành: Gắn kết và giữ chân nhân tài' class='imgc'>
+                                    <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://iweb.tatthanh.com.vn/pic/3/thumb/small/news/tat-thanh-gan-ket-va-giu-chan-nhan-tai.jpg" alt="Tất Thành: Gắn kết và giữ chân nhân tài" class="lazyload" />
+                                </a>
+                            </div>
+                <div class='item-body'>
+                    <a href='https://tatthanh.com.vn/tat-thanh-gan-ket-va-giu-chan-nhan-tai' title='Tất Thành: Gắn kết và giữ chân nhân tài' class='item-title '>Tất Thành: Gắn kết và giữ chân nhân tài</a>
+                    <p class='item-desc'>Tất Thành không chỉ là nơi để làm việc, đây còn là bệ đỡ để mỗi người phát huy thế mạnh, phấn đấu cho mục đích của riêng mình và gắn kết để cùng thực hiện mục tiêu lớn của cả tập thể.</p>
+                    <div class='item-date-view font-size--3 text-color-fade'>
+                                <span class='item-date mr-3'><i class='fa fa-calendar'></i> 17:41 12/11/19</span>
+                                <span class='item-view'><i class='fa fa-eye'></i> 1.656 lượt xem</span>
+                        </div>
+                    <div class='item-links font-size--3 text-color-fade'>			
+					        <span class='item-link'><i class='fa fa-eye'></i> 1.656 lượt xem</span>
+					        <span class='item-link'><i class='fa fa-comment'></i> bình luận</span>
+				        </div>
+                </div>
+            </div><div class='item item-row no-gutters' data-app='news'>
+                <div class='item-img'>
+                                <a href='https://tatthanh.com.vn/ve-tham-que-bac-he-2019' title='Tất Thành - Hành hương về thăm quê Bác | Hành trình hướng về cội nguồn hè 2019' class='imgc'>
+                                    <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://iweb.tatthanh.com.vn/pic/3/thumb/small/news/du-lich-he-2019.jpg" alt="Tất Thành - Hành hương về thăm quê Bác | Hành trình hướng về cội nguồn hè 2019" class="lazyload" />
+                                </a>
+                            </div>
+                <div class='item-body'>
+                    <a href='https://tatthanh.com.vn/ve-tham-que-bac-he-2019' title='Tất Thành - Hành hương về thăm quê Bác | Hành trình hướng về cội nguồn hè 2019' class='item-title '>Tất Thành - Hành hương về thăm quê Bác | Hành trình hướng về cội nguồn hè 2019</a>
+                    <p class='item-desc'>Nghệ An quê Bác -Vùng đất địa linh nhân kiệt chứa đầy khí phách ngút trời của các bậc cao nhân tiền bối có truyền thống yêu nước, văn hóa, cách mạng. Chuyến đi hành hương, hướng về cội nguồn đầy ý nghĩa mà Tất Thành ấp ủ bấy lâu đã được thực hiện hè 2019. Cùng chúng tôi đi và khám phá mảnh đất miền Trung đầy nắng gió và hào hùng này nhé!</p>
+                    <div class='item-date-view font-size--3 text-color-fade'>
+                                <span class='item-date mr-3'><i class='fa fa-calendar'></i> 17:41 27/06/19</span>
+                                <span class='item-view'><i class='fa fa-eye'></i> 1.332 lượt xem</span>
+                        </div>
+                    <div class='item-links font-size--3 text-color-fade'>			
+					        <span class='item-link'><i class='fa fa-eye'></i> 1.332 lượt xem</span>
+					        <span class='item-link'><i class='fa fa-comment'></i> bình luận</span>
+				        </div>
+                </div>
+            </div><div class='item item-row no-gutters' data-app='news'>
+                <div class='item-img'>
+                                <a href='https://tatthanh.com.vn/xu-huong-van-phong-mo-va-tat-thanh' title='Câu chuyện về Tất Thành và xu hướng văn phòng "mở"' class='imgc'>
+                                    <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://iweb.tatthanh.com.vn/pic/3/thumb/small/news/xu-huong-van-phong-mo-va-tat-thanh.jpg" alt="Câu chuyện về Tất Thành và xu hướng văn phòng mở" class="lazyload" />
+                                </a>
+                            </div>
+                <div class='item-body'>
+                    <a href='https://tatthanh.com.vn/xu-huong-van-phong-mo-va-tat-thanh' title='Câu chuyện về Tất Thành và xu hướng văn phòng "mở"' class='item-title '>Câu chuyện về Tất Thành và xu hướng văn phòng "mở"</a>
+                    <p class='item-desc'>Tất Thành không lựa chọn đi theo xu hướng văn phòng "mở" dù 68% nhân viên trên thế giới hiện nay đã và đang làm việc trong những văn phòng kiểu này. Và cũng không phải tự nhiên mà chúng tôi quyết định như vậy.</p>
+                    <div class='item-date-view font-size--3 text-color-fade'>
+                                <span class='item-date mr-3'><i class='fa fa-calendar'></i> 10:29 11/11/19</span>
+                                <span class='item-view'><i class='fa fa-eye'></i> 2.522 lượt xem</span>
+                        </div>
+                    <div class='item-links font-size--3 text-color-fade'>			
+					        <span class='item-link'><i class='fa fa-eye'></i> 2.522 lượt xem</span>
+					        <span class='item-link'><i class='fa fa-comment'></i> bình luận</span>
+				        </div>
+                </div>
+            </div><div class='item item-row no-gutters' data-app='news'>
+                <div class='item-img'>
+                                <a href='https://tatthanh.com.vn/du-lich-bon-mua' title='Tất Thành du lịch bốn mùa' class='imgc'>
+                                    <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://iweb.tatthanh.com.vn/pic/3/thumb/small/news/du-lich-bon-mua.jpg" alt="Tất Thành du lịch bốn mùa" class="lazyload" />
+                                </a>
+                            </div>
+                <div class='item-body'>
+                    <a href='https://tatthanh.com.vn/du-lich-bon-mua' title='Tất Thành du lịch bốn mùa' class='item-title '>Tất Thành du lịch bốn mùa</a>
+                    <p class='item-desc'>Ngoài công việc thì tập thể Tất Thành sẽ có những giây phút cùng nhau vui vẻ trải nghiệm, trò chuyện tâm sự để hiểu nhau hơn qua những buổi du lịch trong bốn mùa: Xuân, Hạ, Thu, Đông.</p>
+                    <div class='item-date-view font-size--3 text-color-fade'>
+                                <span class='item-date mr-3'><i class='fa fa-calendar'></i> 10:32 11/11/19</span>
+                                <span class='item-view'><i class='fa fa-eye'></i> 630 lượt xem</span>
+                        </div>
+                    <div class='item-links font-size--3 text-color-fade'>			
+					        <span class='item-link'><i class='fa fa-eye'></i> 630 lượt xem</span>
+					        <span class='item-link'><i class='fa fa-comment'></i> bình luận</span>
+				        </div>
+                </div>
+            </div></div></div></div>
+
+<div class='category' data-tabs='_alignleft__bgmaincolor2__borderradius__padding__hidebtnviewall__hidebtns__bgleft__arrowright_' data-blocklayouts='_boxshadow__border__borderradius__padding__lightbg__itemborderradius__itemview__2_' data-app='news' data-categoryid='2632' data-app-category='newsgroup'><div class='category-header  bg-main-color-2'>
+            <span class='_bgbottom_'></span>
+            <span class='_bgtop_'></span>
+            <span class='_bgbottommaincolor1_ bg-main-color-1'></span>
+            <span class='_bgtopmaincolor1_ bg-main-color-1'></span>
+            <span class='_bgbottommaincolor2_ bg-main-color-2'></span>
+            <span class='_bgtopmaincolor2_ bg-main-color-2'></span>
+
+            <div class='category-title-wrap bd-main-color-1 bg-main-color-1'>                
+                <a href='https://tatthanh.com.vn/tin-tuc-moi' title='Tin nhiều người xem' class='category-title font-size-medium-2 main-color-1'>Tin nhiều người xem</a>
+                <span class='_bgleftbottom_ bg-main-color-1'></span>
+                <span class='_bglefttop_ bg-main-color-1'></span>
+                <span class='_arrowleft_'></span>
+                <span class='_arrowright_'></span>
+                <span class='_angleleft_'></span>
+                <span class='_angleright_'></span>
+                <span class='_angleleftup_'></span>
+                <span class='_anglerightup_'></span>
+                <span class='_borderleft_'></span>
+                <span class='_borderright_'></span>
+                <span class='_curveleft_'></span>
+                <span class='_curveright_'></span>
+                <span class='_tailflagleft_'></span>
+                <span class='_tailflagright_'></span>
+                <span class='_lineleft_'></span>
+                <span class='_lineright_'></span>
+            </div>
+            <div class='category-btns bd-main-color-2 '>
+                <div class='category-btns-core'>
+                    <a href='https://tatthanh.com.vn/tin-tuc-moi' title='Xem tất cả' class='d-none d-md-inline-block category-btn category-btn-view-all '>Xem tất cả <i class='fa fa-angle-double-right'></i></a><a href='https://tatthanh.com.vn/tin-tuc-moi' title='Xem tất cả' class='category-btn category-btn-view-all d-inline-block d-md-none '><i class='fa fa-angle-double-right'></i></a>
+                </div><a href='javascript:void(0);' onclick='ToggleCategoryBtns(this)' title='Xem thêm' class='category-btn-bars'><i class='fa fa-bars'></i></a>
+                <span class='_bgrightbottom_ bg-main-color-1'></span>
+                <span class='_bgrighttop_ bg-main-color-1'></span>
+            </div>
+        </div><div class='category-body'><div class='auto-loading-items-wrap reloading-items-wrap' data-categoryid='2632'><div class='item item-row no-gutters' data-app='news'>
+                <div class='item-img'>
+                                <a href='https://tatthanh.com.vn/review-co-so-quan-an-gan-cong-ty-cac-ban-nhe' title='Review cơ số quán ăn gần công ty các bạn nhé! :)' class='imgc'>
+                                    <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://iweb.tatthanh.com.vn/pic/3/thumb/small/news/review-co-so-quan-an-gan-cong-ty-cac-ban-nhe.png" alt="Review cơ số quán ăn gần công ty các bạn nhé! :)" class="lazyload" />
+                                </a>
+                            </div>
+                <div class='item-body'>
+                    <a href='https://tatthanh.com.vn/review-co-so-quan-an-gan-cong-ty-cac-ban-nhe' title='Review cơ số quán ăn gần công ty các bạn nhé! :)' class='item-title '>Review cơ số quán ăn gần công ty các bạn nhé! :)</a>
+                    <p class='item-desc'>Khu Hoàng Đạo Thúy - Trung Hòa - Trần Duy Hưng nơi "đóng đại bản doanh" của Tất Thành là một thiên đường ăn uống. Có đủ các loại từ bình dân, văn phòng đến trung cao cấp, thỏa mãn mọi nhu cầu về ẩm thực và mục đích của mọi người. Giúp mọi người thuận tiện hơn cho cả công việc và cuộc sống của mình.</p>
+                    <div class='item-date-view font-size--3 text-color-fade'>
+                                <span class='item-date mr-3'><i class='fa fa-calendar'></i> 10:39 11/11/19</span>
+                                <span class='item-view'><i class='fa fa-eye'></i> 3.183 lượt xem</span>
+                        </div>
+                    <div class='item-links font-size--3 text-color-fade'>			
+					        <span class='item-link'><i class='fa fa-eye'></i> 3.183 lượt xem</span>
+					        <span class='item-link'><i class='fa fa-comment'></i> bình luận</span>
+				        </div>
+                </div>
+            </div><div class='item item-row no-gutters' data-app='news'>
+                <div class='item-img'>
+                                <a href='https://tatthanh.com.vn/nhan-vien-xuat-sac-thang-10' title='Khen Thưởng Nhân Viên Xuất Sắc Tháng 10' class='imgc'>
+                                    <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://iweb.tatthanh.com.vn/pic/3/thumb/small/news/nhan-vien-xuat-sac-thang-10.jpg" alt="Khen Thưởng Nhân Viên Xuất Sắc Tháng 10" class="lazyload" />
+                                </a>
+                            </div>
+                <div class='item-body'>
+                    <a href='https://tatthanh.com.vn/nhan-vien-xuat-sac-thang-10' title='Khen Thưởng Nhân Viên Xuất Sắc Tháng 10' class='item-title '>Khen Thưởng Nhân Viên Xuất Sắc Tháng 10</a>
+                    <p class='item-desc'>Khen thưởng những thành viên XUẤT SẮC NHẤT THÁNG 10 của Tất Thành - Những người đã nỗ lực hết mình để hoàn thành xuất sắc công việc trong tháng.</p>
+                    <div class='item-date-view font-size--3 text-color-fade'>
+                                <span class='item-date mr-3'><i class='fa fa-calendar'></i> 17:03 30/10/18</span>
+                                <span class='item-view'><i class='fa fa-eye'></i> 3.079 lượt xem</span>
+                        </div>
+                    <div class='item-links font-size--3 text-color-fade'>			
+					        <span class='item-link'><i class='fa fa-eye'></i> 3.079 lượt xem</span>
+					        <span class='item-link'><i class='fa fa-comment'></i> bình luận</span>
+				        </div>
+                </div>
+            </div><div class='item item-row no-gutters' data-app='news'>
+                <div class='item-img'>
+                                <a href='https://tatthanh.com.vn/sinh-nhat-thanh-vien-thang-10-2018' title='Tháng 10/2018 nhẹ nhàng sắc thu là sinh nhật những thành viên nào tại Tất Thành?' class='imgc'>
+                                    <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://iweb.tatthanh.com.vn/pic/3/thumb/small/news/sinh-nhat-thanh-vien-thang-10-2018.jpg" alt="Tháng 10/2018 nhẹ nhàng sắc thu là sinh nhật những thành viên nào tại Tất Thành?" class="lazyload" />
+                                </a>
+                            </div>
+                <div class='item-body'>
+                    <a href='https://tatthanh.com.vn/sinh-nhat-thanh-vien-thang-10-2018' title='Tháng 10/2018 nhẹ nhàng sắc thu là sinh nhật những thành viên nào tại Tất Thành?' class='item-title '>Tháng 10/2018 nhẹ nhàng sắc thu là sinh nhật những thành viên nào tại Tất Thành?</a>
+                    <p class='item-desc'>Tại Tất Thành tháng 10 chào đón sinh nhật của 3 thành viên: Nguyễn Thị Thủy (2/10/1992); Đỗ Thị Linh (12/10/1991); Đỗ Quang Ninh (15/10/1991)</p>
+                    <div class='item-date-view font-size--3 text-color-fade'>
+                                <span class='item-date mr-3'><i class='fa fa-calendar'></i> 17:05 02/10/18</span>
+                                <span class='item-view'><i class='fa fa-eye'></i> 2.754 lượt xem</span>
+                        </div>
+                    <div class='item-links font-size--3 text-color-fade'>			
+					        <span class='item-link'><i class='fa fa-eye'></i> 2.754 lượt xem</span>
+					        <span class='item-link'><i class='fa fa-comment'></i> bình luận</span>
+				        </div>
+                </div>
+            </div><div class='item item-row no-gutters' data-app='news'>
+                <div class='item-img'>
+                                <a href='https://tatthanh.com.vn/xu-huong-van-phong-mo-va-tat-thanh' title='Câu chuyện về Tất Thành và xu hướng văn phòng "mở"' class='imgc'>
+                                    <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://iweb.tatthanh.com.vn/pic/3/thumb/small/news/xu-huong-van-phong-mo-va-tat-thanh.jpg" alt="Câu chuyện về Tất Thành và xu hướng văn phòng mở" class="lazyload" />
+                                </a>
+                            </div>
+                <div class='item-body'>
+                    <a href='https://tatthanh.com.vn/xu-huong-van-phong-mo-va-tat-thanh' title='Câu chuyện về Tất Thành và xu hướng văn phòng "mở"' class='item-title '>Câu chuyện về Tất Thành và xu hướng văn phòng "mở"</a>
+                    <p class='item-desc'>Tất Thành không lựa chọn đi theo xu hướng văn phòng "mở" dù 68% nhân viên trên thế giới hiện nay đã và đang làm việc trong những văn phòng kiểu này. Và cũng không phải tự nhiên mà chúng tôi quyết định như vậy.</p>
+                    <div class='item-date-view font-size--3 text-color-fade'>
+                                <span class='item-date mr-3'><i class='fa fa-calendar'></i> 10:29 11/11/19</span>
+                                <span class='item-view'><i class='fa fa-eye'></i> 2.522 lượt xem</span>
+                        </div>
+                    <div class='item-links font-size--3 text-color-fade'>			
+					        <span class='item-link'><i class='fa fa-eye'></i> 2.522 lượt xem</span>
+					        <span class='item-link'><i class='fa fa-comment'></i> bình luận</span>
+				        </div>
+                </div>
+            </div><div class='item item-row no-gutters' data-app='news'>
+                <div class='item-img'>
+                                <a href='https://tatthanh.com.vn/tat-thanh-gan-ket-va-giu-chan-nhan-tai' title='Tất Thành: Gắn kết và giữ chân nhân tài' class='imgc'>
+                                    <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://iweb.tatthanh.com.vn/pic/3/thumb/small/news/tat-thanh-gan-ket-va-giu-chan-nhan-tai.jpg" alt="Tất Thành: Gắn kết và giữ chân nhân tài" class="lazyload" />
+                                </a>
+                            </div>
+                <div class='item-body'>
+                    <a href='https://tatthanh.com.vn/tat-thanh-gan-ket-va-giu-chan-nhan-tai' title='Tất Thành: Gắn kết và giữ chân nhân tài' class='item-title '>Tất Thành: Gắn kết và giữ chân nhân tài</a>
+                    <p class='item-desc'>Tất Thành không chỉ là nơi để làm việc, đây còn là bệ đỡ để mỗi người phát huy thế mạnh, phấn đấu cho mục đích của riêng mình và gắn kết để cùng thực hiện mục tiêu lớn của cả tập thể.</p>
+                    <div class='item-date-view font-size--3 text-color-fade'>
+                                <span class='item-date mr-3'><i class='fa fa-calendar'></i> 17:41 12/11/19</span>
+                                <span class='item-view'><i class='fa fa-eye'></i> 1.656 lượt xem</span>
+                        </div>
+                    <div class='item-links font-size--3 text-color-fade'>			
+					        <span class='item-link'><i class='fa fa-eye'></i> 1.656 lượt xem</span>
+					        <span class='item-link'><i class='fa fa-comment'></i> bình luận</span>
+				        </div>
+                </div>
+            </div></div></div></div>
+<div class='img-qcps'></div>
+<div style="height:15px"></div>
+
+        </div>
+    </div>
+</div>   
+
+
+<div class="row no-gutters">
+    <div class="col-lg-6" id="dien-thoai-ho-tro">
+        
+<div class="customer-support">
+    <div class="customer-support-title font-size-larger">Hỗ trợ khách hàng</div>
+    <div class="customer-support-desc">
+        Các chuyên viên tư vấn của Tất Thành luôn sẵn sàng giúp bạn.
+        Hãy liên hệ ngay nếu bạn còn có câu hỏi trong đầu :)
+    </div>
+    <div class="customer-support-body item-rows container">
+        <div class="item">
+            <div class="item-body">
+                <div class="item-title font-size-medium main-color-1">Trần Minh Thắng</div>
+                <div class="item-desc">
+                    <a href="tel:0988.56.59.56" target="_blank" rel="nofollow">0988.56.59.56</a><br/>
+                    <a href="mailto:lienhe@tatthanh.com.vn" target="_blank" rel="nofollow">lienhe@tatthanh.com.vn</a>
+                </div>
+                <div class="item-links">
+                    <span>Sẵn sàng hỗ trợ qua</span>
+                    <span>
+                        <a href="https://m.me/thang.tatthanh" title="" target="_blank" rel="nofollow" class="item-link" data-type="facebook"></a>
+                        <a href="skype:live:eda64380ec58bd61?chat" title="" target="_blank" rel="nofollow" class="item-link" data-type="skype"></a>
+                        <a href="viber://chat?number=+84988565956" title="" target="_blank" rel="nofollow" class="item-link" data-type="viber"></a>
+                        <a href="https://zalo.me/0988565956" title="" target="_blank" rel="nofollow" class="item-link" data-type="zalo"></a>
+                    </span>
+                </div>
+            </div>
+            <div class="item-img">
+                <div class="imgc"><img src="/Themes/Theme01/Assets/Css/Images/demo-user.png" /></div>
+            </div>
+        </div>
+        <div class="item">
+            <div class="item-body">
+                <div class="item-title font-size-medium main-color-1">Hà Mạnh Linh</div>
+                <div class="item-desc">
+                    <a href="tel:0988.184.022" target="_blank" rel="nofollow">0988.184.022</a><br/>
+                    <a href="mailto:lienhe@tatthanh.com.vn" target="_blank" rel="nofollow">lienhe@tatthanh.com.vn</a>
+                </div>
+                <div class="item-links">
+                    <span>Sẵn sàng hỗ trợ qua</span>
+                    <span>
+                        <a href="https://m.me/thang.tatthanh" title="" target="_blank" rel="nofollow" class="item-link" data-type="facebook"></a>
+                        <a href="skype:live:eda64380ec58bd61?chat" title="" target="_blank" rel="nofollow" class="item-link" data-type="skype"></a>
+                        <a href="viber://chat?number=+84988184022" title="" target="_blank" rel="nofollow" class="item-link" data-type="viber"></a>
+                        <a href="https://zalo.me/0988184022" title="" target="_blank" rel="nofollow" class="item-link" data-type="zalo"></a>
+                    </span>
+                </div>
+            </div>
+            <div class="item-img">
+                <div class="imgc"><img src="/Themes/Theme01/Assets/Css/Images/demo-user-linh.png" /></div>
+            </div>
+        </div>
+        
+        <div class="item">
+            <div class="item-body">
+                <div class="item-title font-size-medium main-color-1">Võ Thị Huyền</div>
+                <div class="item-desc">
+                    <a href="tel:0981.552.379" target="_blank" rel="nofollow">0981.552.379</a><br/>
+                    <a href="mailto:lienhe@tatthanh.com.vn" target="_blank" rel="nofollow">lienhe@tatthanh.com.vn</a>
+                </div>
+                <div class="item-links">
+                    <span>Sẵn sàng hỗ trợ qua</span>
+                    <span>
+                        <a href="https://m.me/thang.tatthanh" title="" target="_blank" rel="nofollow" class="item-link" data-type="facebook"></a>
+                        <a href="skype:live:eda64380ec58bd61?chat" title="" target="_blank" rel="nofollow" class="item-link" data-type="skype"></a>
+                        <a href="viber://chat?number=+84981552379" title="" target="_blank" rel="nofollow" class="item-link" data-type="viber"></a>
+                        <a href="https://zalo.me/0981552379" title="" target="_blank" rel="nofollow" class="item-link" data-type="zalo"></a>
+                    </span>
+                </div>
+            </div>
+            <div class="item-img">
+                <div class="imgc"><img src="/Themes/Theme01/Assets/Css/Images/demo-user-huyen.png" /></div>
+            </div>
+        </div>
+    </div>
+</div>
+
+    </div>
+    <div class="col-lg-6" id="gui-yeu-cau">
+        
+<div class="contact-form">
+    <div class="contact-form-title font-size-larger">Gửi yêu cầu</div>
+    <div class="contact-form-desc">Hãy cho chúng tôi biết mong muốn của bạn. Chúng tôi sẽ liên hệ lại
+        cho bạn ngay lập tức.</div>
+    <div class="font-size-medium main-color-1 font-weight-bold d-none contact-page-title">Gửi thông tin liên hệ</div>
+    <div class="font-size-medium main-color-1 font-weight-bold d-none service-page-title">Đăng ký dịch vụ</div>
+    <div class="contact-form-body ValidateForm" id="All_ContactForm">
+        <div class="input-group mb-2">
+            <div class="input-group-prepend">
+                <div class="input-group-text main-color-1"><i class=" fa fa-user-o"></i></div>
+            </div>
+            <input type="text" class="form-control firstInput" data-name="FullName" placeholder="Họ tên" data-validate="true" data-vld-required="true">
+        </div>
+        <div class="input-group mb-2">
+            <div class="input-group-prepend">
+                <div class="input-group-text main-color-1"><i class=" fa fa-phone"></i></div>
+            </div>
+            <input type="text" class="form-control" data-name="Mobile" placeholder="Điện thoại di động" data-validate="true" data-vld-required="true">
+        </div>
+        <div class="input-group mb-2">
+            <div class="input-group-prepend">
+                <div class="input-group-text main-color-1"><i class=" fa fa-envelope-o"></i></div>
+            </div>
+            <input type="text" class="form-control" data-name="Email" placeholder="Email của bạn" data-validate="true" data-vld-email="true">
+        </div>
+        <div class="input-group mb-2 d-none send-to-wrap">
+            <div class="input-group-prepend">
+                <div class="input-group-text main-color-1"><i class=" fa fa-globe"></i></div>
+            </div>
+            <select class="form-control" data-name="SendTo">
+                <option value="">Gửi tới</option>
+                <option value='1141'>Công ty CP dịch vụ Tất Thành</option>
+            </select>
+        </div>
+        <div class="input-group input-group-last mb-2">
+            <div class="input-group-prepend">
+                <div class="input-group-text main-color-1"><i class=" fa fa-comment-o"></i></div>
+            </div>
+            <textarea cols="20" rows="2" class="form-control" data-name="Content" placeholder="Nội dung yêu cầu" spellcheck="false"></textarea>
+        </div>
+        <div class="text-center mt-4">
+            <a href="javascript:SendContact('#All_ContactForm');" title="Gửi yêu cầu" data-function="SendContact" class="btn btn-primary font-weight-bold">GỬI YÊU CẦU</a>
+            <a href="javascript:ResetFormControls('#All_ContactForm')" title="Xóa nội dung" class="btn btn-secondary font-weight-bold">Xóa nội dung</a>
+        </div>
+        <div class="form-alert"></div>
+    </div>
+</div>
+    </div>
+</div>
+
+<div class="footer-top font-size--1">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6 col-lg-4">
+                <p>Like và truy cập Fanpage của chúng tôi</p>
+                <a href="https://www.facebook.com/tatthanh.com.vn" target="_blank" rel="nofollow" class="fb-like-btn"><span>Facebook Fanpage</span></a>
+            </div>
+            <div class="col-md-6 col-lg-4">
+                <p>Subscribe Youtube channel của chúng tôi</p>
+                <a href="https://www.youtube.com/channel/UCSJnQS2GEQAjJPZm4g8Pupw" target="_blank" rel="nofollow" class="fb-like-btn yt-subscribe-btn"><span>Youtube Channel</span></a>
+            </div>
+            <div class="col-md-6 col-lg-4">
+                
+
+<p class="newsletter-signup-text">Để lại email để nhận được thông tin khuyến mại sớm nhất</p>
+<div class="newsletter-signup-form ValidateForm" id="NewsLetterSignUp">
+    <input type="text" value="" placeholder="Nhập email của bạn" class="form-control" id="tbEmail_nlsu" onkeyup="CheckNewsLetterSignUp(event)" data-validate="true" data-vld-email="true"/>
+    <a href="#" data-function="PostNewsLetterSignUp" onclick="PostNewsLetterSignUp(event)"><i class="fa fa-arrow-right"></i></a>        
+    <div class="form-alert mt-2"></div>
+
+    <style>
+        .btn-loading[data-function='PostNewsLetterSignUp']:after{display:none}
+    </style>
+</div>
+
+
+<script>
+    function CheckNewsLetterSignUp(event) {
+        if (event.keyCode === 13)
+            PostNewsLetterSignUp();
+    }
+
+    function PostNewsLetterSignUp(event) {
+        if (event) event.preventDefault();
+
+        //Khối chứa form
+        var $container = $("#NewsLetterSignUp");
+
+        //Validate dữ liệu
+        if ($container.validate('check')) {
+            AjaxLoading(true);
+
+            //Khóa nút gửi để không bị gửi nhiều lần
+            $("a[data-function='PostNewsLetterSignUp']").addClass("btn-loading");
+
+            //Gửi dữ liệu lên server
+            $.ajax({
+                url: "/themes/theme01/ajax/newsletter.aspx",
+                type: "POST",
+                dataType: "json",
+                data: {
+                    "action": "PostNewsLetterSignUp",
+                    "email": $("#tbEmail_nlsu").val()
+                },
+                success: function (res) {
+                    AjaxLoading(false);
+
+                    $(".form-alert", $container).CreateFormAlert(res[0], true, true);
+
+                    //Mở lại nut gửi
+                    $("a[data-function='PostNewsLetterSignUp']").removeClass("btn-loading");
+                },
+                error: function (error) {
+                    AjaxLoading(false);
+                    console.log("Có lỗi xảy ra. NewsLetterSignUp");
+                }
+            });
+        }
+    }
+</script>
+            </div>
+        </div>
+    </div>
+</div><div class='menu-footer-1'>
+    <div class='container container-large'>
+        <div class='row'><div class='col-md-6 col-lg-3 col-xl-12d5 mb-3'><div class='list-title'>Dịch vụ website</div><ul class='list-body'><li><a href='/thiet-ke-website-ban-hang' title='Thiết kế website bán hàng' class='footer-menu '>Thiết kế website bán hàng</a></li><li><a href='/thiet-ke-website-bat-dong-san' title='Thiết kế website bất động sản' class='footer-menu '>Thiết kế website bất động sản</a></li><li><a href='/thiet-ke-website-thuong-mai-dien-tu' title='Thiết kế website thương mại điện tử' class='footer-menu '>Thiết kế website thương mại điện tử</a></li></ul></div><div class='col-md-6 col-lg-3 col-xl-12d5 mb-3'><div class='list-title'>Dịch vụ seo</div><ul class='list-body'><li><a href='/dich-vu-seo-tong-the' title='Dịch vụ seo tổng thể' class='footer-menu '>Dịch vụ seo tổng thể</a></li><li><a href='/bang-gia-seo-website' title='Báo giá seo' class='footer-menu '>Báo giá seo</a></li><li><a href='/kien-thuc-seo' title='Kiến thức seo' class='footer-menu '>Kiến thức seo</a></li></ul></div><div class='col-md-6 col-lg-3 col-xl-12d5 mb-3'><div class='list-title'>Dịch vụ thiết kế</div><ul class='list-body'><li><a href='/thiet-ke-logo' title='Thiết kế logo' class='footer-menu '>Thiết kế logo</a></li><li><a href='/thiet-ke-catalogue' title='Thiết kế Catalogue' class='footer-menu '>Thiết kế Catalogue</a></li><li><a href='/thiet-ke-profile' title='Thiết kế profile' class='footer-menu '>Thiết kế profile</a></li></ul></div><div class='col-md-6 col-lg-3 col-xl-12d5 mb-3'><div class='list-title'>Trụ sở chính</div><div class='list-body menu-text'> Địa chỉ: Phòng 3203, tòa nhà 34T, Hoàng Đạo Thúy, Cầu Giấy, Hà Nội<br/>Điện thoại: 0242.2617.666<br/>Email: lienhe@tatthanh.com.vn<br/>
+            <a href="https://goo.gl/maps/iXSFLxjDwWQ3dnsY6" target="_blank" rel="nofollow" class="d-inline-block pt-1">
+                <img src="/Themes/Theme01/Assets/Css/Images/_Icon/xembando.png" alt="Xem bản đồ"/>
+            </a></div></div><div class='col-md-6 col-lg-3 col-xl-12d5 mb-3'><div class='list-title'>Chi nhánh</div><div class='list-body menu-text'>Địa chỉ: Nhổn, Xuân Phương, Từ Liêm, Hà Nội<br/>Điện thoại: 0242.2617.666<br/>Email: lienhe@tatthanh.com.vn<br/>
+            <a href="https://goo.gl/maps/NLRhKQCwHFVwtwFbA" target="_blank" rel="nofollow" class="d-inline-block pt-1">
+                <img src="/Themes/Theme01/Assets/Css/Images/_Icon/xembando.png" alt="Xem bản đồ"/>
+            </a></div></div></div>
+    </div>
+</div>
+<style type="text/css">
+    #homepageblock_chpBHggu { background-color:#F7F7F7; }
+    #homepageblock_chpBHggu{padding-bottom:66px}
+#homepageblock_chpBHggu .menu-footer-2{width:100%}
+</style>
+
+<div class="block-row-wrap  " id="homepageblock_chpBHggu" data-type="normal">
+    <div class="container container-large"><div class="block-row ">
+    <div class='menu-footer-2 font-size--1'>
+    <div class='container container-large'>
+        <div class='row no-gutters'>
+            <div class='col-md-4 col-lg-6'>© Bản quyền website thuộc về Tất Thành. Bảo lưu mọi quyền. <a href="http://www.online.gov.vn/HomePage/CustomWebsiteDisplay.aspx?DocId=9282" target="_blank" rel="nofollow"><img src="/Themes/Theme01/Assets/Css/Images/_Icon/dtb-bct.png" /></a></div>
+            <div class='col-md-8 col-lg-6 text-md-right d-none'>
+                <div class='footer-menu'>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+    </div></div>
+</div>
+<style type="text/css">
+    #homepageblock_ofEGsLLX { background-image:url('https://iweb.tatthanh.com.vn/pic/3/setting/tatthanh-bg-fixed-bottom(1).png');background-size:cover;background-repeat:no-repeat;background-position:bottom center; }
+    #homepageblock_ofEGsLLX{height:66px}
+#homepageblock_ofEGsLLX .block-row{padding-top:30px;margin-left:-3px;margin-right:-3px}
+#homepageblock_ofEGsLLX .block-row .fixed-bottom-btn{margin-left:3px;margin-right:3px;}
+
+@media(max-width:1199px)
+{
+#homepageblock_ofEGsLLX{background-position:bottom left -150px;}
+}
+
+@media(max-width:767px)
+{
+#homepageblock_ofEGsLLX {background-position: bottom left -250px;}
+#homepageblock_ofEGsLLX .block-row{margin-left:-10px;margin-right:-10px; justify-content: center;}
+}
+</style>
+
+<div class="block-row-wrap  " id="homepageblock_ofEGsLLX" data-type="fixed_bottom">
+    <div class="container container-large"><div class="block-row ">
+    
+    <a href="#dien-thoai-ho-tro" title="Gọi điện" class="fixed-bottom-btn btn bg-main-color-2"><i class="fa fa-phone main-color-2"></i> <span>Gọi điện</span></a>
+
+
+
+
+
+    <a href="#gui-yeu-cau" title="Gửi yêu cầu" class="fixed-bottom-btn btn bg-main-color-2"><i class="fa fa-envelope main-color-2"></i> <span>Gửi yêu cầu</span></a>
+
+
+
+
+
+    <a href="#dien-thoai-ho-tro" title="Chat Zalo" class="fixed-bottom-btn btn bg-main-color-2"><i class="fa fa-zalo main-color-2"></i> <span>Chat Zalo</span></a>
+
+
+    </div></div>
+</div>
+
+
+<div class="fade-popup"></div>
+<div class="light-popup light-popup-member-login" id="popup-login-register">
+    <a href="javascript:ClosePopup()" class="btn-close-popup"><i class="fa fa-times"></i> Đóng lại</a>
+    <input type="hidden" value="" id="hdRedirectUrl_lif"/>
+    <div class="popup-content">        
+        <div class="tabs-wrap">
+            <div class="tabs tabs-underline">
+                <a href="#" data-tab="tab-dangnhap" class="tab active font-size-medium">Đăng nhập</a>
+                <a href="#" data-tab="tab-dangky" class="tab font-size-medium">Đăng ký</a>
+                <a href="#" data-tab="tab-forgot" class="tab" style="display: none">Đặt lại mật khẩu</a>
+            </div>
+            <div class="tabs-content">
+                <div class="tab-content active" data-tab="tab-dangnhap">
+                    <div class="ValidateForm register-form" id="login-form">
+                        <div class="form-group">
+                            <label for="tbTenDangNhap_lif">Tên đăng nhập</label>
+                            <input type="text" class="form-control" id="tbTenDangNhap_lif" placeholder="Nhập email của bạn" data-validate="true" data-vld-required="true">
+                        </div>
+                        <div class="form-group">
+                            <label for="tbMatKhau_lif">Mật khẩu</label>
+                            <input type="password" class="form-control" id="tbMatKhau_lif" onkeyup="CheckMemberLogin(event)" placeholder="Mật khẩu tối thiểu 8 kí tự" data-validate="true" data-vld-password="true">
+                        </div>
+                        <div class="form-alert"></div>
+                        <div class="form-btns text-center">
+                            <a href="javascript:void(0)" onclick="MemberLogin()" data-function="MemberLogin" title="Đăng nhập" class="btn btn-lg btn-primary d-block fwb">Đăng nhập</a>
+                            <p>
+                                 Bạn chưa có tài khoản? <a href="javascript:OpenPopupRegister()" title="Đăng ký" class="main-color-2">Đăng ký</a><br/>
+                                <a href="javascript:OpenPopupForgotPassword()" title="Quên mật khẩu">Quên mật khẩu?</a>
+                            </p>
+                            <div class="mt-3">
+                                <a href="https://www.facebook.com/v3.3/dialog/oauth?client_id=463373797870430&redirect_uri=https%3a%2f%2ftatthanh.com.vn%2fFbLogin.aspx&state=637182725356353021&response_type=token&scope=public_profile,email" class="lg-fb"><i class="fa fa-facebook"></i> Đăng nhập bằng Facebook</a>
+                                <a href="https://accounts.google.com/o/oauth2/auth?client_id=907952092943-l124s1op3li9c9olap0703vav79lqir9.apps.googleusercontent.com&redirect_uri=https%3a%2f%2ftatthanh.com.vn%2fGgLogin.aspx&state=637182725356353021&response_type=token&scope=profile+email&include_granted_scopes=true" class="lg-gp"><i class="fa fa-google"></i> Đăng nhập bằng Google</a>
+                            </div>
+                        </div>                        
+                    </div>
+                </div>
+                <div class="tab-content" data-tab="tab-dangky">
+                    <div class="ValidateForm register-form" id="register-form">
+                        <div class="form-group">
+                            <label for="tbHoVaTen_rgf">Họ và tên</label>
+                            <input type="text" class="form-control" id="tbHoVaTen_rgf" placeholder="Họ tên của bạn" data-validate="true" data-vld-required="true">
+                        </div>
+                        <div class="form-group">
+                            <label for="tbDienThoai_rgf">Điện thoại</label>
+                            <input type="text" class="form-control" id="tbDienThoai_rgf" placeholder="Điện thoại của bạn" data-validate="true" data-vld-required="true" data-vld-phone="true">
+                        </div>
+                        <div class="form-group">
+                            <label for="tbEmail_rgf">Email</label>
+                            <input type="text" class="form-control" id="tbEmail_rgf" placeholder="Email của bạn" data-validate="true" data-vld-required="true" data-vld-email="true">
+                        </div>
+                        <div class="form-group">
+                            <label for="tbDiaChi_rgf">Địa chỉ</label>
+                            <input type="text" class="form-control" id="tbDiaChi_rgf" placeholder="Địa chỉ của bạn">
+                        </div>
+                        <div class="form-inline mt-md-3 mb-md-3">
+                            <div class="form-group">
+                                <label for="rbGioiTinh1_rgf" class="mr-4">Giới tính</label>
+                                
+                                <div class="form-check form-check-inline ml-md-3 mr-md-3">
+                                    <input class="form-check-input" id="rbGioiTinh1_rgf" type="radio" name="rbGioiTinh_rgf" value="1" checked="checked"/>
+                                    <label class="form-check-label" for="rbGioiTinh1_rgf">Nam</label>                                    
+                                </div>
+                                <div class="form-check form-check-inline">
+                                    <input class="form-check-input" id="rbGioiTinh0_rgf" type="radio" name="rbGioiTinh_rgf" value="0"/>
+                                    <label class="form-check-label" for="rbGioiTinh0_rgf">Nữ</label>                                    
+                                </div>                                                            
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="tbNgaySinh_rgf">Ngày sinh</label>
+                            <input type="text" class="form-control datepicker" id="tbNgaySinh_rgf" placeholder="Ngày/Tháng/Năm sinh của bạn">
+                        </div>
+                        <div class="form-group">
+                            <label for="tbMatKhau_rgf">Mật khẩu</label>
+                            <input type="password" class="form-control" id="tbMatKhau_rgf" placeholder="Mật khẩu từ 8-12 ký tự" data-validate="true" data-vld-password="true">
+                        </div>
+                        <div class="form-group">
+                            <label for="tbMatKhauNhapLai_rgf">Nhập lại mật khẩu</label>
+                            <input type="password" class="form-control" id="tbMatKhauNhapLai_rgf" placeholder="Mật khẩu từ 8-12 ký tự" data-validate="true" data-vld-password="true" data-vld-compare-with="#tbMatKhau_rgf">
+                        </div>
+                        
+                        <div class="form-btns text-center">
+                            <a href="javascript:void(0)" onclick="MemberRegister()" data-function="MemberRegister" title="Đăng ký" class="btn btn-lg btn-primary d-block fwb">Đăng ký</a>
+                            <p>
+                                 Bạn đã có tài khoản? <a href="javascript:OpenPopupLogin()" title="Đăng nhập" class="main-color-2">Đăng nhập</a>
+                            </p>
+                        </div>
+                        <div class="form-alert"></div>
+                    </div>
+                </div>
+                <div class="tab-content" data-tab="tab-forgot">
+                    <div class="ValidateForm register-form" id="forgot-password-form">
+                        <div class="form-group">
+                            <label for="tbEmail_fpf">Email</label>
+                            <input type="text" class="form-control" id="tbEmail_fpf" placeholder="Nhập email của bạn" data-validate="true" data-vld-required="true" data-vld-email="true">
+                        </div>                                         
+                        <div class="form-btns text-center">
+                            <a href="javascript:void(0)" onclick="MemberForgotPassword()" data-function="MemberForgotPassword" title="Đặt lại mật khẩu" class="btn btn-lg btn-primary d-block fwb">Đặt lại mật khẩu</a>
+                            <p>
+                                 Bạn đã có tài khoản? <a href="javascript:OpenPopupLogin()" title="Đăng nhập" class="main-color-2">Đăng nhập</a>
+                            </p>
+                        </div>
+                        <div class="form-alert"></div>
+                    </div>
+                </div>
+            </div>
+        </div>        
+    </div>
+</div>
+
+<script>
+    function MemberRegister() {    
+        //Khối chứa form
+        var containerSelector = "#register-form";
+        var $container = $(containerSelector);
+
+        //Gửi dữ liệu lên server
+        if ($container.validate('check')) {
+            AjaxLoading(true);
+
+            //Khóa nút gửi để không bị gửi nhiều lần     
+            $("a[data-function='MemberRegister']").addClass("btn-loading");
+
+            $.ajax({
+                url: "/themes/theme01/ajax/member.aspx",
+                type: "POST",
+                dataType: "json",
+                data: {
+                    "action": "MemberRegister",
+                    "hoTen": $("#tbHoVaTen_rgf").val(),
+                    "dienThoai": $("#tbDienThoai_rgf").val(),
+                    "email": $("#tbEmail_rgf").val(),
+                    "diaChi": $("#tbDiaChi_rgf").val(),
+                    "gioiTinh": $("input[type='radio'][name='rbGioiTinh_rgf']:checked", $container).val(),
+                    "ngaySinh": $("#tbNgaySinh_rgf").val(),
+                    "matKhau": $("#tbMatKhau_rgf").val()
+                },
+                success: function (res) {
+                    if (res[0] === "success") {
+                        AjaxLoading(false);
+
+                        //Mở lại nút gửi
+                        $("a[data-function='MemberRegister']").removeClass("btn-loading").text("Đăng ký thành công").css("pointer-events","none");
+
+                        //Hiện thông báo cần kích hoạt tài khoản
+                        $(".form-alert", $container).CreateFormAlert(res[1], true, true);
+                    }
+                    else {
+                        AjaxLoading(false);
+
+                        //Mở lại nút gửi                   
+                        $("a[data-function='MemberRegister']").removeClass("btn-loading");
+
+                        //Hiện thông báo lỗi
+                        $(".form-alert", $container).CreateFormAlert(res[1], false, true);
+                    }
+                },
+                error: function (error) {
+                    console.log("Có lỗi xảy ra. MemberRegister");
+                }
+            });
+        }
+    }
+
+    function CheckMemberLogin(event) {
+        event.preventDefault();
+
+        if (event.keyCode === 13)
+            MemberLogin();
+    }
+
+    function MemberLogin() {
+        //Khối chứa form
+        var containerSelector = "#login-form";
+        var $container = $(containerSelector);
+
+        //Gửi dữ liệu lên server
+        if ($container.validate('check')) {
+
+            //Khóa nút gửi để không bị gửi nhiều lần     
+            $("a[data-function='MemberLogin']").css("pointer-events", "none").find("span").text("Đang đăng nhập");
+
+            $.ajax({
+                url: "/themes/theme01/ajax/member.aspx",
+                type: "POST",
+                dataType: "json",
+                data: {
+                    "action": "MemberLogin",
+                    "tenDangNhap": $("#tbTenDangNhap_lif").val(),
+                    "matKhau": $("#tbMatKhau_lif").val()
+                },
+                success: function (res) {
+                    if (res[0] === "success") {
+                        //Hiện thông báo thành công
+                        $(".form-alert", $container).CreateFormAlert(res[1], true);
+
+                        //Chuyển tới trang thành viên
+                        window.location = $("#hdRedirectUrl_lif").val();
+                    }
+                    else {
+                        //Mở lại nút gửi                   
+                        $("a[data-function='MemberLogin']").css("pointer-events", "auto").find("span").text("Đăng nhập");
+
+                        //Hiện thông báo lỗi
+                        $(".form-alert", $container).CreateFormAlert(res[1], false);
+                    }
+                },
+                error: function (error) {
+                    console.log("Có lỗi xảy ra. MemberLogin");
+                }
+            });
+        }
+    }
+
+    function MemberForgotPassword() {
+        //Khối chứa form
+        var containerSelector = "#forgot-password-form";
+        var $container = $(containerSelector);
+
+        //Gửi dữ liệu lên server
+        if ($container.validate('check')) {
+
+            //Khóa nút gửi để không bị gửi nhiều lần     
+            $("a[data-function='MemberForgotPassword']").css("pointer-events", "none").find("span").text("Đang đặt lại");
+
+            $.ajax({
+                url: "/themes/theme01/ajax/member.aspx",
+                type: "POST",
+                dataType: "json",
+                data: {
+                    "action": "MemberForgotPassword",
+                    "email": $("#tbEmail_fpf").val()
+                },
+                success: function (res) {
+                    if (res[0] === "success") {
+                        //Hiện thông báo thành công
+                        $(".form-alert", $container).CreateFormAlert(res[1], true);
+                    }
+                    else {
+                        //Mở lại nút gửi                   
+                        $("a[data-function='MemberForgotPassword']").css("pointer-events", "auto").find("span").text("Đặt lại mật khẩu");
+
+                        //Hiện thông báo lỗi
+                        $(".form-alert", $container).CreateFormAlert(res[1], false);
+                    }
+                },
+                error: function (error) {
+                    console.log("Có lỗi xảy ra. MemberForgotPassword");
+                }
+            });
+        }
+    }
+
+    // #region Mở popup đăng ký, đăng nhập
+    function OpenPopupRegister() {
+        OpenPopup("#popup-login-register");
+
+        $("#hdRedirectUrl_lif").val(document.URL);
+
+        $("a[data-tab='tab-dangky']").click();
+
+        $("#tbHoVaTen_rgf").focus();
+    }
+
+    function OpenPopupLogin() {
+        OpenPopup("#popup-login-register");
+
+        $("#hdRedirectUrl_lif").val(document.URL);
+
+        $("a[data-tab='tab-dangnhap']").click();
+
+        $("#tbTenDangNhap_lif").focus();
+    }
+
+    function OpenPopupForgotPassword() {
+        OpenPopup("#popup-login-register");
+
+        $("a[data-tab='tab-forgot']").click();
+
+        $("#tbEmail_fpf").focus();
+    }
+// #endregion
+</script>
+
+
+
+<div class="fade-popup"></div>
+<div class="light-popup" id="popup-homepage-banner" data-cookie-name="popup-homepage-banner-closed">
+    <a href="javascript:ClosePopup()" class="btn-close-popup"><i class="fa fa-times"></i> Đóng lại</a>
+    <div class="popup-content">        
+        <a  href='https://zalo.me/0988565956' title='Popup lớn khi vào web' target='_blank' rel='nofollow'><img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://iweb.tatthanh.com.vn/pic/3/banner/13-Popup-Bỏ-nút.png" alt="Popup lớn khi vào web" class="lazyload" /></a>
+
+        
+    </div>
+</div>
+
+<div class="btn-calls-fixed" data-small-size="0">
+    <a href="tel:0988565956" target="_blank" rel="nofollow" data-type="hotline" class="btn-call-fixed ">
+        <div class="icon-wrap">
+            <div class="border-1"></div>
+            <div class="border-2"></div>
+            <i class="fa fa-phone"></i>            
+        </div>
+        <div class="text">
+            <span>Hotline</span><br/>
+            <span>0988.56.59.56</span>
+        </div>
+    </a>
+
+    <a href="https://zalo.me/0988565956" target="_blank" rel="nofollow" data-type="zalo" class="btn-call-fixed ">
+        <div class="icon-wrap">
+            <div class="border-1"></div>
+            <div class="border-2"></div>
+            <i class="fa fa-zalo"></i>            
+        </div>
+        <div class="text">
+            <span>Zalo</span><br/>
+            <span>0988.56.59.56</span>
+        </div>
+    </a>
+
+    <a href="viber://chat?number=0988565956" target="_blank" rel="nofollow" data-type="viber" class="btn-call-fixed ">
+        <div class="icon-wrap">
+            <div class="border-1"></div>
+            <div class="border-2"></div>
+            <i class="fa fa-viber"></i>            
+        </div>
+        <div class="text">
+            <span>Viber</span><br/>
+            <span>0988.56.59.56</span>
+        </div>
+    </a>
+
+    <a href="https://m.me/" target="_blank" rel="nofollow" data-type="facebook" class="btn-call-fixed d-none">
+        <div class="icon-wrap">
+            <div class="border-1"></div>
+            <div class="border-2"></div>
+            <i class="fa fa-facebook"></i>            
+        </div>
+        <div class="text">
+            <span>Facebook</span><br/>
+            <span>http://facebook.com/</span>
+        </div>
+    </a>
+
+    <a href="#" title="Top" onclick="ScrollToTop(event)" class="btn-go-to-top bg-main-color-1 "><i class="fa fa-angle-double-up"></i></a>
+</div>
+
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = 'https://connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v3.1&appId=463373797870430&autoLogAppEvents=1';
+    fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<!-- #region Thanh loading ajax -->
+<div class="progress-ajax-wrap"><div class="progress"><div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style="width:100%"></div></div></div>
+<!-- #endregion -->
+
+<!-- #region Các file js -->
+<script>
+    var WebUrl = "https://tatthanh.com.vn/";
+    var ApiDomain = "https://iweb.tatthanh.com.vn/";
+
+    var ModuleRewrite = "blog";
+
+    var NoImageSrcThumb = "/pic/noimage/no-image-thumb.png";
+    var NoImageSrcSmall = "/pic/noimage/no-image-small.png";
+    var NoImageSrcCompact = "/pic/noimage/no-image-compact.png";
+    var NoImageSrcMedium = "/pic/noimage/no-image-medium.png";
+    var NoImageSrcLarge = "/pic/noimage/no-image-large.png";
+
+    var NoMaleImageSrcThumb = "/pic/noimage/man-thumb.png";
+    var NoMaleImageSrcSmall = "/pic/noimage/man-small.png";
+    var NoMaleImageSrcCompact = "/pic/noimage/man-compact.png";
+    var NoMaleImageSrcMedium = "/pic/noimage/man-medium.png";
+    var NoMaleImageSrcLarge = "/pic/noimage/man-large.png";
+
+    var NoFemaleImageSrcThumb = "/pic/noimage/woman-thumb.png";
+    var NoFemaleImageSrcSmall = "/pic/noimage/woman-small.png";
+    var NoFemaleImageSrcCompact = "/pic/noimage/woman-compact.png";
+    var NoFemaleImageSrcMedium = "/pic/noimage/woman-medium.png";
+    var NoFemaleImageSrcLarge = "/pic/noimage/woman-large.png";
+</script>
+<script src="/Themes/Theme01/Assets/Js/__main.min.20200222.11h26.js"></script>
+<!-- #endregion -->
+    
+
+
+
+<!-- #region Các mã có thể nhúng vào cuối thẻ body như Google Analytics, Facebook,... -->
+<script>
+
+if(document.URL.endsWith(".htm"))
+window.location = document.URL.replace(".htm","");
+	</script>
+
+<!-- #endregion -->
+</body>
+</html>
